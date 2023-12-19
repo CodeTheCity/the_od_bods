@@ -49,8 +49,8 @@ def main():
         }
     )
     source_scotgov["Source"] = "sparql"
-    #print("DateUpdated " + source_scotgov["DateUpdated"])
-    #print("DateCreated " + source_scotgov["DateCreated"])
+    # print("DateUpdated " + source_scotgov["DateUpdated"])
+    # print("DateCreated " + source_scotgov["DateCreated"])
     try:
         source_scotgov["DateUpdated"] = pd.to_datetime(
             source_scotgov["DateUpdated"], utc=True
@@ -110,7 +110,7 @@ def main():
                 source_usmart = pd.concat(
                     [
                         source_usmart,
-                        pd.read_csv(
+                        pd.read_json(
                             folder + r"/" + filename,
                             parse_dates=["DateCreated", "DateUpdated"],
                         ),
@@ -165,19 +165,43 @@ def main():
     # From Scottish Parliament
     print("\tMerging Scottish Parliament...")
     path = "data/bespoke_ScottishParliament/Scottish Parliament.json"
-    scottish_parliament_scraped = pd.read_json(path, convert_dates=["dateCreated", "dateUpdated"])
+    scottish_parliament_scraped = pd.read_json(
+        path, convert_dates=["dateCreated", "dateUpdated"]
+    )
 
-    for index, row in scottish_parliament_scraped.iterrows():      
+    for index, row in scottish_parliament_scraped.iterrows():
         resources = pd.json_normalize(row["resources"])
         for resource_index, resource_row in resources.iterrows():
             # TEMP FIX: Need to do this mapping until we modify the merged_output.json schema to support nesting resources inside each dataset entry
             source_scraped = pd.concat(
-                [source_scraped, pd.DataFrame.from_records([{"Title": row["title"], "Owner": row["owner"], "PageURL": row["pageURL"], "AssetURL": resource_row["assetUrl"], "DateCreated": row["dateCreated"], "DateUpdated": row["dateUpdated"], "FileSize": resource_row["fileSize"], "FileType": resource_row["fileType"], "NumRecords": resource_row["numRecords"], "OriginalTags": row["tags"], "ManualTags" : row["tags"], "License": row["licence"], "Description": row["description"], "FileName": resource_row["fileName"]}])]
+                [
+                    source_scraped,
+                    pd.DataFrame.from_records(
+                        [
+                            {
+                                "Title": row["title"],
+                                "Owner": row["owner"],
+                                "PageURL": row["pageURL"],
+                                "AssetURL": resource_row["assetUrl"],
+                                "DateCreated": row["dateCreated"],
+                                "DateUpdated": row["dateUpdated"],
+                                "FileSize": resource_row["fileSize"],
+                                "FileType": resource_row["fileType"],
+                                "NumRecords": resource_row["numRecords"],
+                                "OriginalTags": row["tags"],
+                                "ManualTags": row["tags"],
+                                "License": row["licence"],
+                                "Description": row["description"],
+                                "FileName": resource_row["fileName"],
+                            }
+                        ]
+                    ),
+                ]
             )
 
     source_scraped["Source"] = "Web Scraped"
     # endregion
-  
+
     ### Combine all data into single table
     print("Concatenating all")
     data = pd.concat(
@@ -191,7 +215,7 @@ def main():
         ]
     )
     data = data.reset_index(drop=True)
-    
+
     print(f"Output untidy {dt.now()}")
     ### Saves copy of data without cleaning - for analysis purposes
     data.to_json("data/merged_output_untidy.json", orient="records", date_format="iso")
@@ -395,7 +419,7 @@ def clean_data(dataframe):
             "Other (Public Domain)": "Public Domain",
             "Public Domain": "Public Domain",
             "Public Sector End User Licence (Scotland)": "Public Sector End User Licence (Scotland)",
-            "Scottish Parliament Copyright Policy": "Scottish Parliament Copyright Policy"
+            "Scottish Parliament Copyright Policy": "Scottish Parliament Copyright Policy",
         }
 
         for key in known_licences.keys():

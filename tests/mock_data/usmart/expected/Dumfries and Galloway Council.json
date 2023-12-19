@@ -1,0 +1,1346 @@
+[
+    {
+        "Title": "Secondary School Roll",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/0279b31b-061e-4ac3-9ae8-8f0a866cb734",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/8570ed0d-97fb-454c-bd53-bb2579356bf1/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-16T14:25:40.882Z",
+        "DateUpdated": "2017-11-16T15:31:41.274Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Young People"
+        ],
+        "License": "",
+        "Description": "\"Number of Pupils in Secondary schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Secondary School Roll",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/0279b31b-061e-4ac3-9ae8-8f0a866cb734",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=63a62370-2ba6-4fc8-8811-cfb513ba8fc3",
+        "FileName": "Secondary School Roll.csv",
+        "DateCreated": "2017-11-16T14:25:40.882Z",
+        "DateUpdated": "2017-11-16T15:31:41.274Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Young People"
+        ],
+        "License": "",
+        "Description": "\"Number of Pupils in Secondary schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "SWestrans Commercial Split",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/84085b60-c17d-445e-89c2-03d3862aba7a",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/5daa415c-869e-43be-bd0d-06a58b802945/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-25T13:26:56.800Z",
+        "DateUpdated": "2018-09-27T13:52:47.761Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"SWestrans Commercial Split\""
+    },
+    {
+        "Title": "SWestrans Commercial Split",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/84085b60-c17d-445e-89c2-03d3862aba7a",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=ac89c2de-4a8d-4bfc-b574-e4c28412bcf1",
+        "FileName": "SWestrans Commercial split 2018.csv",
+        "DateCreated": "2018-07-25T13:26:56.800Z",
+        "DateUpdated": "2018-09-27T13:52:47.761Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"SWestrans Commercial Split\""
+    },
+    {
+        "Title": "Burial Grounds",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/873818de-53dd-4008-ac1c-8cc0c6f74070",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/ac87ee48-ba3d-4742-938f-7f97269454c7/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-25T16:07:09.343Z",
+        "DateUpdated": "2018-08-23T14:19:56.887Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Population"
+        ],
+        "License": "",
+        "Description": "\"Burial Grounds in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Burial Grounds",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/873818de-53dd-4008-ac1c-8cc0c6f74070",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=4ac6c7de-b05b-4dce-ab05-faab6ccff4e3",
+        "FileName": "Burial_Grounds.csv",
+        "DateCreated": "2018-01-25T16:07:09.343Z",
+        "DateUpdated": "2018-08-23T14:19:56.887Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Population"
+        ],
+        "License": "",
+        "Description": "\"Burial Grounds in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Smoke Control Areas",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/2c3b3933-ba6f-42e2-9f58-f43ed6c401ef",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=214d8789-651f-4b0c-90fa-5a5ad7373b74",
+        "FileName": "SMOKE_CONTROL_AREAS.geojson",
+        "DateCreated": "2018-07-16T08:52:30.623Z",
+        "DateUpdated": "2018-10-02T09:04:58.767Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "GEOJSON",
+        "NumRecords": "",
+        "OriginalTags": [
+            "http://publications.europa.eu/resource/authority/data-theme/HEAL Geospatial"
+        ],
+        "ManualTags": [
+            "Health Environmental"
+        ],
+        "License": "",
+        "Description": "\"Smoke Control Areas\""
+    },
+    {
+        "Title": "Smoke Control Areas",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/2c3b3933-ba6f-42e2-9f58-f43ed6c401ef",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/575621b3-f511-4319-b5f6-c5fb723d6538/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-16T08:52:30.623Z",
+        "DateUpdated": "2018-10-02T09:04:58.767Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "http://publications.europa.eu/resource/authority/data-theme/HEAL Geospatial"
+        ],
+        "ManualTags": [
+            "Health Environmental"
+        ],
+        "License": "",
+        "Description": "\"Smoke Control Areas\""
+    },
+    {
+        "Title": "PE Provision",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/7664f600-29a7-4c95-9a2a-8b1a433ad54b",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/e2ccd990-359d-4ebd-b1d4-2c67e4830a3e/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-29T14:02:26.204Z",
+        "DateUpdated": "2018-03-01T15:35:39.363Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        ],
+        "ManualTags": [
+            "Schools"
+        ],
+        "License": "",
+        "Description": "\"Physical Education provision in primary and secondary schools in Dumfries and Galloway and other school variables, 2017\""
+    },
+    {
+        "Title": "PE Provision",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/7664f600-29a7-4c95-9a2a-8b1a433ad54b",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=2d7dc236-7e75-4c27-a60f-2000d039dda2",
+        "FileName": "PE.csv",
+        "DateCreated": "2017-11-29T14:02:26.204Z",
+        "DateUpdated": "2018-03-01T15:35:39.363Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        ],
+        "ManualTags": [
+            "Schools"
+        ],
+        "License": "",
+        "Description": "\"Physical Education provision in primary and secondary schools in Dumfries and Galloway and other school variables, 2017\""
+    },
+    {
+        "Title": "Primary Schools",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/247a79cc-bd65-43c5-8b3b-26d463febe36",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/d1d37cf0-246c-4f67-bcc2-4ab9fbc351ae/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-21T15:27:30.905Z",
+        "DateUpdated": "2017-11-21T15:38:45.363Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Primary Schools",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/247a79cc-bd65-43c5-8b3b-26d463febe36",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eeff79f-6e79-4e91-984a-5cc347b2eaf4",
+        "FileName": "Primary Schools.csv",
+        "DateCreated": "2017-11-21T15:27:30.905Z",
+        "DateUpdated": "2017-11-21T15:38:45.363Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Primary Schools",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/247a79cc-bd65-43c5-8b3b-26d463febe36",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d6c7780e-7d08-4f74-a2f1-a8fb3ac3ddb4",
+        "FileName": "Primary Schools.xml",
+        "DateCreated": "2017-11-21T15:27:30.905Z",
+        "DateUpdated": "2017-11-21T15:38:45.363Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Electoral Wards",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/98341983-3962-4f12-881b-0b8966c5e120",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/7e3ad6b8-7968-49f3-9db8-5e72a0db03ff/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-23T13:49:58.540Z",
+        "DateUpdated": "2019-02-21T10:37:51.568Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Government Local Planning"
+        ],
+        "License": "",
+        "Description": "\"Local Government electoral wards for Dumfries and Galloway\""
+    },
+    {
+        "Title": "Electoral Wards",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/98341983-3962-4f12-881b-0b8966c5e120",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=48fd5bc3-38e6-4312-b8d3-a0f7062058af",
+        "FileName": "Wards.zip",
+        "DateCreated": "2017-11-23T13:49:58.540Z",
+        "DateUpdated": "2019-02-21T10:37:51.568Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Government Local Planning"
+        ],
+        "License": "",
+        "Description": "\"Local Government electoral wards for Dumfries and Galloway\""
+    },
+    {
+        "Title": "Transport Contract List",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/57d4db7f-d91c-4464-92c4-ed12df5db423",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2a653384-4e4b-439a-a993-c43970cf0225/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-25T12:16:30.004Z",
+        "DateUpdated": "2018-09-27T13:58:40.139Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"Transport Contract List\""
+    },
+    {
+        "Title": "Transport Contract List",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/57d4db7f-d91c-4464-92c4-ed12df5db423",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=7900d65d-e46c-48c9-a3ff-785b9878c78b",
+        "FileName": "Transport Contract List Complete 2018.csv",
+        "DateCreated": "2018-07-25T12:16:30.004Z",
+        "DateUpdated": "2018-09-27T13:58:40.139Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"Transport Contract List\""
+    },
+    {
+        "Title": "Class Sizes",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/49492547-04d7-4dc8-b962-21c2c389be7a",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=74a0bbbf-55f8-4ccf-83f9-388b93b219e9",
+        "FileName": "Class Sizes.json",
+        "DateCreated": "2017-11-29T11:05:07.274Z",
+        "DateUpdated": "2018-03-01T11:56:13.034Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary school class sizes as at September 2016\""
+    },
+    {
+        "Title": "Class Sizes",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/49492547-04d7-4dc8-b962-21c2c389be7a",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e42a8889-9106-41ee-9d0c-cb22e81fe69d",
+        "FileName": "Class Sizes.csv",
+        "DateCreated": "2017-11-29T11:05:07.274Z",
+        "DateUpdated": "2018-03-01T11:56:13.034Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary school class sizes as at September 2016\""
+    },
+    {
+        "Title": "Class Sizes",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/49492547-04d7-4dc8-b962-21c2c389be7a",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=b3f0b67b-7d62-4f94-a99b-e12105d36483",
+        "FileName": "Class Sizes.xml",
+        "DateCreated": "2017-11-29T11:05:07.274Z",
+        "DateUpdated": "2018-03-01T11:56:13.034Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Primary school class sizes as at September 2016\""
+    },
+    {
+        "Title": "School Catchment Areas",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/b958299b-9fca-4380-a6f1-047bdf0223aa",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/additionalDocumentation/29388337-4e19-4ac9-8a8c-5d99e0639d9b/Secondary%20Catchments%20ND.zip",
+        "FileName": "Secondary Catchments ND.zip",
+        "DateCreated": "2017-11-16T15:14:09.245Z",
+        "DateUpdated": "2020-12-11T14:12:07.979Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community Geospatial"
+        ],
+        "ManualTags": [
+            "Education Government Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"Dumfries and Galloway School Catchment area boundaries\""
+    },
+    {
+        "Title": "Secondary School Teaches FTE",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9c8928da-f25f-46ac-99a4-ef024ece4b45",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/dda8302f-f4d3-494a-839b-fa6916cc1dd2/1/urql",
+        "FileName": "API",
+        "DateCreated": "2019-01-24T15:10:17.795Z",
+        "DateUpdated": "2019-01-29T08:35:05.268Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"Secondry School Teachers FTE (Full Time Equivelnt) 2017\""
+    },
+    {
+        "Title": "Secondary School Teaches FTE",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9c8928da-f25f-46ac-99a4-ef024ece4b45",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=c0002a4b-37c9-49e2-8725-1dd44734b349",
+        "FileName": "Secondary School Teaches FTE.csv",
+        "DateCreated": "2019-01-24T15:10:17.795Z",
+        "DateUpdated": "2019-01-29T08:35:05.268Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"Secondry School Teachers FTE (Full Time Equivelnt) 2017\""
+    },
+    {
+        "Title": "Building Conservation Areas",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9f76f5eb-3744-4470-9d64-19b17aa8e1ca",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=550e04c6-4e0b-410f-b163-d6803cdbe1ac",
+        "FileName": "Building Conservation Areas (Cleaned).zip",
+        "DateCreated": "2018-07-16T09:00:41.285Z",
+        "DateUpdated": "2019-01-15T17:06:05.213Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment Geospatial"
+        ],
+        "ManualTags": [
+            "Environmental Architectural Planning Permission"
+        ],
+        "License": "",
+        "Description": "\"Building Conservation Areas\""
+    },
+    {
+        "Title": "Building Conservation Areas",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9f76f5eb-3744-4470-9d64-19b17aa8e1ca",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/710fb75a-4c63-4d05-a4cd-cb7f5dfd752e/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-16T09:00:41.285Z",
+        "DateUpdated": "2019-01-15T17:06:05.213Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment Geospatial"
+        ],
+        "ManualTags": [
+            "Environmental Architectural Planning Permission"
+        ],
+        "License": "",
+        "Description": "\"Building Conservation Areas\""
+    },
+    {
+        "Title": "Salt Bins",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/be48ea86-9fb5-4b22-b948-97b8cbeeb64b",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=49bbcb0f-9c56-4308-a970-3e27da4d4489",
+        "FileName": "Salt Bins.json",
+        "DateCreated": "2017-11-20T09:37:03.626Z",
+        "DateUpdated": "2019-09-17T20:32:25.132Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"Location of Salt Bins throughout Dumfries and Galloway\""
+    },
+    {
+        "Title": "Salt Bins",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/be48ea86-9fb5-4b22-b948-97b8cbeeb64b",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=0ab0deb1-b686-47b6-b18c-1a40280ae76d",
+        "FileName": "Salt Bins.xml",
+        "DateCreated": "2017-11-20T09:37:03.626Z",
+        "DateUpdated": "2019-09-17T20:32:25.132Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"Location of Salt Bins throughout Dumfries and Galloway\""
+    },
+    {
+        "Title": "Salt Bins",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/be48ea86-9fb5-4b22-b948-97b8cbeeb64b",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=54428067-660c-4e13-af89-b65cdfbd9ee6",
+        "FileName": "Salt Bins.csv",
+        "DateCreated": "2017-11-20T09:37:03.626Z",
+        "DateUpdated": "2019-09-17T20:32:25.132Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure"
+        ],
+        "ManualTags": [
+            "Transport"
+        ],
+        "License": "",
+        "Description": "\"Location of Salt Bins throughout Dumfries and Galloway\""
+    },
+    {
+        "Title": "Biosphere Reserves",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8ae382e0-1cea-447f-9dc3-b6d1503d08f9",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=3accd5d4-8c39-4aad-b57a-e176df00e039",
+        "FileName": "Biosphere.zip",
+        "DateCreated": "2017-11-22T14:12:02.428Z",
+        "DateUpdated": "2018-09-27T13:57:08.007Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Water"
+        ],
+        "ManualTags": [
+            "Agriculture enviroment"
+        ],
+        "License": "",
+        "Description": "\"Areas of terrestrial and coastal ecosystems promoting the conservation of biodiversity with sustainable use\""
+    },
+    {
+        "Title": "Biosphere Reserves",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8ae382e0-1cea-447f-9dc3-b6d1503d08f9",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/a48c63c4-b077-45ca-8bcb-5a9ac2869a41/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-22T14:12:02.428Z",
+        "DateUpdated": "2018-09-27T13:57:08.007Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Water"
+        ],
+        "ManualTags": [
+            "Agriculture enviroment"
+        ],
+        "License": "",
+        "Description": "\"Areas of terrestrial and coastal ecosystems promoting the conservation of biodiversity with sustainable use\""
+    },
+    {
+        "Title": "Polling Stations",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/6b9e02f9-fa27-4631-a9bb-23ed1d44857c",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/83a4ecb1-b94c-44ca-8625-b66d3e92b9a2/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-24T11:53:01.762Z",
+        "DateUpdated": "2019-11-26T08:26:00.542Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Local"
+        ],
+        "License": "",
+        "Description": "\"Polling Station Locations\""
+    },
+    {
+        "Title": "Polling Stations",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/6b9e02f9-fa27-4631-a9bb-23ed1d44857c",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eec9885-204c-4b53-b7e3-feebad7ad8aa",
+        "FileName": "Polling_Stations_NOV19 .csv",
+        "DateCreated": "2017-11-24T11:53:01.762Z",
+        "DateUpdated": "2019-11-26T08:26:00.542Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Local"
+        ],
+        "License": "",
+        "Description": "\"Polling Station Locations\""
+    },
+    {
+        "Title": "Community Council Boundaries",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/1efec530-bc75-40c3-8578-e263b5d750ab",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=8479d7d9-5c9a-4415-afff-46ddbc164fcb",
+        "FileName": "Community Council Boundaries (Cleaned).zip",
+        "DateCreated": "2018-07-12T12:59:47.961Z",
+        "DateUpdated": "2018-10-02T09:02:04.110Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Geospatial"
+        ],
+        "ManualTags": [
+            "Business Social Community"
+        ],
+        "License": "",
+        "Description": "\"Community Council Boundaries\""
+    },
+    {
+        "Title": "Community Council Boundaries",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/1efec530-bc75-40c3-8578-e263b5d750ab",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/cd71ccc9-9e96-473b-b542-063aa16acfc1/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-12T12:59:47.961Z",
+        "DateUpdated": "2018-10-02T09:02:04.110Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Geospatial"
+        ],
+        "ManualTags": [
+            "Business Social Community"
+        ],
+        "License": "",
+        "Description": "\"Community Council Boundaries\""
+    },
+    {
+        "Title": "War Memorials",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/f509dd00-1165-4320-bb46-ccd30e6065fc",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/49940e83-2d78-45c3-ab67-c1254be8599d/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-25T16:23:29.465Z",
+        "DateUpdated": "2018-03-01T11:57:03.156Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Community Assets"
+        ],
+        "License": "",
+        "Description": "\"First and Second World War Memorials In Dumfries and Galloway\""
+    },
+    {
+        "Title": "War Memorials",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/f509dd00-1165-4320-bb46-ccd30e6065fc",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=ed75f3c8-f6bf-42dc-9540-c18467f4597b",
+        "FileName": "War_Memorials.csv",
+        "DateCreated": "2018-01-25T16:23:29.465Z",
+        "DateUpdated": "2018-03-01T11:57:03.156Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Community Assets"
+        ],
+        "License": "",
+        "Description": "\"First and Second World War Memorials In Dumfries and Galloway\""
+    },
+    {
+        "Title": "Valuation Roll",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/0aeb8640-04ea-44e3-9c03-63b53a3fe7d4",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=bcd1bd61-af38-4ffb-8a49-35e8e18a0372",
+        "FileName": "vr_subject_total.csv",
+        "DateCreated": "2018-01-23T14:03:57.604Z",
+        "DateUpdated": "2018-09-27T14:12:11.924Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Architectural"
+        ],
+        "License": "",
+        "Description": "\"The Total Number of Non-Domestic Properties and Total Rateable Value in each Local Authority within each Assessor's Area plus All Scotland totals.\""
+    },
+    {
+        "Title": "Valuation Roll",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/0aeb8640-04ea-44e3-9c03-63b53a3fe7d4",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/4bbaa7b5-9da9-4614-9b4b-ff566f330217/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-23T14:03:57.604Z",
+        "DateUpdated": "2018-09-27T14:12:11.924Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Architectural"
+        ],
+        "License": "",
+        "Description": "\"The Total Number of Non-Domestic Properties and Total Rateable Value in each Local Authority within each Assessor's Area plus All Scotland totals.\""
+    },
+    {
+        "Title": "Core Paths",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/a0518b9b-2b70-4334-bd7e-6631adf67c11",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2b1c99ec-bc89-44a9-89f1-54218f52318d/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-12T12:59:26.547Z",
+        "DateUpdated": "2020-02-04T11:09:15.072Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Geospatial"
+        ],
+        "ManualTags": [
+            "Public Access Routes  Walking and Cycling  "
+        ],
+        "License": "",
+        "Description": "\"Core Paths\""
+    },
+    {
+        "Title": "Nurseries",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/7b74d2d8-a96f-4b5a-be63-b895e4a939e2",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=a4871862-2752-4209-8ff8-d0f9c8da3574",
+        "FileName": "Nurseries.json",
+        "DateCreated": "2017-11-16T13:35:10.411Z",
+        "DateUpdated": "2017-11-16T16:06:12.039Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children"
+        ],
+        "License": "",
+        "Description": "\"Nurseries in Dumfries and Galloway with headcount of children attending.\""
+    },
+    {
+        "Title": "Nurseries",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/7b74d2d8-a96f-4b5a-be63-b895e4a939e2",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=683b2713-b1bb-4e1d-acc7-26b24e5fca8a",
+        "FileName": "Nurseries.csv",
+        "DateCreated": "2017-11-16T13:35:10.411Z",
+        "DateUpdated": "2017-11-16T16:06:12.039Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children"
+        ],
+        "License": "",
+        "Description": "\"Nurseries in Dumfries and Galloway with headcount of children attending.\""
+    },
+    {
+        "Title": "Nurseries",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/7b74d2d8-a96f-4b5a-be63-b895e4a939e2",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=a46dab69-e9f0-4e52-bf11-f8e707a12846",
+        "FileName": "Nurseries.xml",
+        "DateCreated": "2017-11-16T13:35:10.411Z",
+        "DateUpdated": "2017-11-16T16:06:12.039Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children"
+        ],
+        "License": "",
+        "Description": "\"Nurseries in Dumfries and Galloway with headcount of children attending.\""
+    },
+    {
+        "Title": "Recycling Centres",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/a423ccc2-51e4-4a86-af72-649e3ef991c1",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/8f961ffb-98e1-4943-b7ff-7823a0de5fbd/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-26T15:51:42.423Z",
+        "DateUpdated": "2018-03-01T15:36:41.884Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure"
+        ],
+        "ManualTags": [
+            "enviroment Recycling"
+        ],
+        "License": "",
+        "Description": "\"Recycling Centres and Points in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Recycling Centres",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/a423ccc2-51e4-4a86-af72-649e3ef991c1",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e2ae5d65-fac4-41f1-8e86-4bdf5796195b",
+        "FileName": "recycling.csv",
+        "DateCreated": "2018-01-26T15:51:42.423Z",
+        "DateUpdated": "2018-03-01T15:36:41.884Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure"
+        ],
+        "ManualTags": [
+            "enviroment Recycling"
+        ],
+        "License": "",
+        "Description": "\"Recycling Centres and Points in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Primary School Attendance",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/3090c5a4-79f9-4659-b549-7abf59bcfddb",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/b2b9e26f-0692-4a4f-8a61-1f51e45cbf09/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-15T10:28:01.702Z",
+        "DateUpdated": "2017-11-16T15:31:04.253Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Schools Education"
+        ],
+        "License": "",
+        "Description": "\"Annual Attendance Percentage of Primary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Primary School Attendance",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/3090c5a4-79f9-4659-b549-7abf59bcfddb",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=6d588204-d094-47e7-82e7-bce532ca2c35",
+        "FileName": "school_attendance.csv",
+        "DateCreated": "2017-11-15T10:28:01.702Z",
+        "DateUpdated": "2017-11-16T15:31:04.253Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Schools Education"
+        ],
+        "License": "",
+        "Description": "\"Annual Attendance Percentage of Primary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Valuation by industry",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/c72bf08c-c809-48e0-9e2c-e43f363f5a1b",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=0d4286b2-c9c6-43a3-a87c-a1cba1ac600c",
+        "FileName": "vr_class3.csv",
+        "DateCreated": "2018-01-23T14:13:15.167Z",
+        "DateUpdated": "2018-03-01T15:36:04.668Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            " "
+        ],
+        "License": "",
+        "Description": "\"The Number of Non-Domestic Properties by Category Code and Total Rateable Value in D&G , plus All-Scotland totals.\""
+    },
+    {
+        "Title": "Valuation by industry",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/c72bf08c-c809-48e0-9e2c-e43f363f5a1b",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/596aa399-760c-4dc5-a76d-58ecd43fc7e6/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-23T14:13:15.167Z",
+        "DateUpdated": "2018-03-01T15:36:04.668Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            " "
+        ],
+        "License": "",
+        "Description": "\"The Number of Non-Domestic Properties by Category Code and Total Rateable Value in D&G , plus All-Scotland totals.\""
+    },
+    {
+        "Title": "School Rolls",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/e48094b9-b9d6-4f50-8b19-8825f881ddff",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/091b7162-6da4-4cc2-a0b8-4936cddbd4eb/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-02-21T11:08:06.136Z",
+        "DateUpdated": "2019-01-17T14:44:13.572Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Children"
+        ],
+        "License": "",
+        "Description": "\"Historical School Rolls in Dumfries and Galloway\""
+    },
+    {
+        "Title": "School Rolls",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/e48094b9-b9d6-4f50-8b19-8825f881ddff",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=41f05d21-058e-4475-b406-e5a6b61edbca",
+        "FileName": "School Rolls_historical_school_rolls.csv",
+        "DateCreated": "2018-02-21T11:08:06.136Z",
+        "DateUpdated": "2019-01-17T14:44:13.572Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Children"
+        ],
+        "License": "",
+        "Description": "\"Historical School Rolls in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Contaminated Land Register",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/b05ebc9e-e5b6-4a18-bcb7-c3c316ec20cb",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e9b516c9-2ccd-4da5-96b8-d3c252418a15",
+        "FileName": "Contaminated_Land_Register_region (cleaned).zip",
+        "DateCreated": "2018-07-12T13:05:10.581Z",
+        "DateUpdated": "2018-10-02T09:07:02.292Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Planning"
+        ],
+        "License": "",
+        "Description": "\"Contaminated Land Register\""
+    },
+    {
+        "Title": "Contaminated Land Register",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/b05ebc9e-e5b6-4a18-bcb7-c3c316ec20cb",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2f44f5af-a48f-4e4f-8387-799c130da2df/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-12T13:05:10.581Z",
+        "DateUpdated": "2018-10-02T09:07:02.292Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Planning"
+        ],
+        "License": "",
+        "Description": "\"Contaminated Land Register\""
+    },
+    {
+        "Title": "School Absence",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/c593551e-56da-46e8-8b8f-7d81e5343964",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=3dcfc9aa-b1eb-41f7-8385-1ccfa420e303",
+        "FileName": "authorised_unauthorised_Exclusion_AbsenceRates.csv",
+        "DateCreated": "2017-11-15T10:44:08.462Z",
+        "DateUpdated": "2017-11-16T15:31:14.023Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Schools Children Education"
+        ],
+        "License": "",
+        "Description": "\"Percentage of Absences by Authorised, Unauthorised and Exclusions\""
+    },
+    {
+        "Title": "School Absence",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/c593551e-56da-46e8-8b8f-7d81e5343964",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/343e83eb-7841-4eb5-a73a-61047ee6d823/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-15T10:44:08.462Z",
+        "DateUpdated": "2017-11-16T15:31:14.023Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Schools Children Education"
+        ],
+        "License": "",
+        "Description": "\"Percentage of Absences by Authorised, Unauthorised and Exclusions\""
+    },
+    {
+        "Title": "Polling Districts 2017",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9414517b-2fcd-47f7-b8eb-8659122454cc",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=78ba2d5f-a0ef-41fd-8d9b-8ea4ec22c182",
+        "FileName": "Polling_districts.geojson",
+        "DateCreated": "2018-07-16T09:12:21.645Z",
+        "DateUpdated": "2018-10-02T09:00:28.100Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "GEOJSON",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Logistics Geospatial"
+        ],
+        "ManualTags": [
+            "Polling Districts Voting "
+        ],
+        "License": "",
+        "Description": "\"Polling Districts 2017\""
+    },
+    {
+        "Title": "Polling Districts 2017",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/9414517b-2fcd-47f7-b8eb-8659122454cc",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/df4ef60a-7ca3-43b8-b433-afd3815f2d04/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-07-16T09:12:21.645Z",
+        "DateUpdated": "2018-10-02T09:00:28.100Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Logistics Geospatial"
+        ],
+        "ManualTags": [
+            "Polling Districts Voting "
+        ],
+        "License": "",
+        "Description": "\"Polling Districts 2017\""
+    },
+    {
+        "Title": "Council Tax",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8c6e6e6c-8f11-4eab-a401-1318b477ffad",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=07ca781c-21a0-4ee6-937f-b4048c6fd0d1",
+        "FileName": "ct_band.csv",
+        "DateCreated": "2018-01-23T14:16:42.175Z",
+        "DateUpdated": "2018-02-21T14:40:54.379Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Planning"
+        ],
+        "License": "",
+        "Description": "\"Number of Properties by Council Tax Band in each D&G, plus All-Scotland totals. This excludes Garages and Domestic Storage Premises.\""
+    },
+    {
+        "Title": "Council Tax",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8c6e6e6c-8f11-4eab-a401-1318b477ffad",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/219fbf9a-4471-4997-8ea9-95c55c063442/1/urql",
+        "FileName": "API",
+        "DateCreated": "2018-01-23T14:16:42.175Z",
+        "DateUpdated": "2018-02-21T14:40:54.379Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Planning"
+        ],
+        "License": "",
+        "Description": "\"Number of Properties by Council Tax Band in each D&G, plus All-Scotland totals. This excludes Garages and Domestic Storage Premises.\""
+    },
+    {
+        "Title": "Teacher Numbers",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/736fd2ea-a6da-4c06-87a9-5a7a39698347",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/e3a7980c-334b-4cd4-af64-4968ca42f6e8/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-15T09:59:28.542Z",
+        "DateUpdated": "2019-01-29T08:43:53.250Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Number of Teachers in D&G for Primary, Secondary and Special Education Schools\""
+    },
+    {
+        "Title": "Teacher Numbers",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/736fd2ea-a6da-4c06-87a9-5a7a39698347",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=8b7eb95e-97fd-406a-b7fd-15198f7fb498",
+        "FileName": "Teacher Numbers 2007 to 2017.csv",
+        "DateCreated": "2017-11-15T09:59:28.542Z",
+        "DateUpdated": "2019-01-29T08:43:53.250Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Built environment"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Number of Teachers in D&G for Primary, Secondary and Special Education Schools\""
+    },
+    {
+        "Title": "Secondary School Attendance",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8dd37ea1-2e1d-4e37-8fb7-323c90fdb192",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/fa9e7d24-afa0-4126-ac1a-7b43ee2b1707/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-15T10:18:25.225Z",
+        "DateUpdated": "2017-11-16T15:30:48.441Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Education Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"Annual Attendance Percentages for Secondary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Secondary School Attendance",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/8dd37ea1-2e1d-4e37-8fb7-323c90fdb192",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=6eed0631-2804-4336-bce9-fc3597280d29",
+        "FileName": "secondary_attendance.csv",
+        "DateCreated": "2017-11-15T10:18:25.225Z",
+        "DateUpdated": "2017-11-16T15:30:48.441Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Education Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"Annual Attendance Percentages for Secondary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Secondary Schools",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/85141456-67b4-4af9-8c24-17e35d4753f6",
+        "AssetURL": "https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d50c4283-1e69-4347-a7e5-93b556135152",
+        "FileName": "Secondary Schools.csv",
+        "DateCreated": "2017-11-17T11:31:23.930Z",
+        "DateUpdated": "2018-02-21T11:01:27.005Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Secondary Schools in Dumfries and Galloway\""
+    },
+    {
+        "Title": "Secondary Schools",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/dumgal/discovery/discovery-view-detail/85141456-67b4-4af9-8c24-17e35d4753f6",
+        "AssetURL": "https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/7631a55f-a450-4658-ae08-a1c3ddc626f7/1/urql",
+        "FileName": "API",
+        "DateCreated": "2017-11-17T11:31:23.930Z",
+        "DateUpdated": "2018-02-21T11:01:27.005Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Social / Community"
+        ],
+        "ManualTags": [
+            "Children Education Schools"
+        ],
+        "License": "",
+        "Description": "\"Secondary Schools in Dumfries and Galloway\""
+    }
+]

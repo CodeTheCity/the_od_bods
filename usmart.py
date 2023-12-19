@@ -1,10 +1,14 @@
 try:
     from processor import Processor
+    from jsonProcessor import jsonProcessor
+    from jsonRow import jsonRow
 except:
     from .processor import Processor
+    from .jsonProcessor import jsonProcessor
+    from .jsonRow import jsonRow
 
 
-class ProcessorUSMART(Processor):
+class ProcessorUSMART(jsonProcessor):
     def __init__(self):
         super().__init__(type="USMART")
 
@@ -51,30 +55,28 @@ class ProcessorUSMART(Processor):
                         ManualTags.append(kw)
                 else:
                     ManualTags.append(" ")
+
                 for item in filetypes:
                     print(filetypes[item][1])
-                    line = [
-                        Title,
-                        Owner,
-                        PageURL,
-                        filetypes[item][0],
-                        filetypes[item][1],  # FileName
-                        DateCreated,
-                        DateUpdated,
-                        "",
-                        "",
-                        item,
-                        "",
-                        " ".join(OriginalTags),
-                        " ".join(ManualTags),
-                        Licence,
-                        Description,
-                    ]
+
+                    # Create jsonRow
+                    line = jsonRow()
+                    line.Title = Title
+                    line.Owner = Owner
+                    line.PageURL = PageURL
+                    line.AssetURL = filetypes[item][0]
+                    line.FileName = filetypes[item][1]
+                    line.DateCreated = DateCreated
+                    line.DateUpdated = DateUpdated
+                    line.FileType = item
+                    line.OriginalTags = (" ".join(OriginalTags),)
+                    line.ManualTags = (" ".join(ManualTags),)
+                    line.license = Licence
+                    line.Description = Description
 
                     prepped.append(line)
 
-            processor.write_csv(fname, prepped)
-
+            processor.write_json(fname, prepped)
 
 processor = ProcessorUSMART()
 

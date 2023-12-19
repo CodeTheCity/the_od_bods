@@ -4,6 +4,14 @@ from urllib.error import HTTPError, URLError
 import csv
 import json
 import os
+import dataclasses
+
+
+class EnhancedJSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if dataclasses.is_dataclass(o):
+            return dataclasses.asdict(o)
+        return super().default(o)
 
 
 class Processor:
@@ -107,16 +115,18 @@ class Processor:
                     r[-1] = r[-1].replace("\n", " ")
                 w.writerow(r)
 
-    def write_json(self, fname, prepped):        
+    def write_json(self, fname, prepped):
         with open(fname, "w", encoding="utf8") as json_file:
-            json.dump(prepped, json_file, indent=4)
+            json.dump(prepped, json_file, indent=4, cls=EnhancedJSONEncoder)
 
     def get_datasets(self, owner, url, fname):
         print("Override this method")
 
-    def process(self, file_type = "csv"):
+    def process(self, file_type="csv"):
         self.get_urls()
 
         for name, url in self.urls.items():
             print(name)
-            self.get_datasets(name, url, os.path.join("data", self.type, f"{name}.{file_type}"))
+            self.get_datasets(
+                name, url, os.path.join("data", self.type, f"{name}.{file_type}")
+            )

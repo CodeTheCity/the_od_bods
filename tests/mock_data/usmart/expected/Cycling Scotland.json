@@ -1,0 +1,3320 @@
+[
+    {
+        "Title": "National Monitoring Framework - hourly data from automatic cycling counters - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f3df8bdf-8305-4fef-af33-502488befec7",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1c10a00a-2d39-4ff2-befa-d952458ec608/1/urql",
+        "FileName": "API",
+        "DateCreated": "2020-04-03T14:53:09.123Z",
+        "DateUpdated": "2020-04-20T13:06:49.881Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Counter Cycling"
+        ],
+        "License": "",
+        "Description": "\"This dataset gives the hourly cycling count breakdown for all of Cycling Scotland's automatic cycling counters. Most of counters also count pedestrians.\""
+    },
+    {
+        "Title": "National Monitoring Framework - hourly data from automatic cycling counters - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/7ffbe5d6-fa13-4352-829d-0bb0a58e3355",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/208316af-3d06-4b86-83e9-2cf025393d1c/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-03-24T20:21:48.559Z",
+        "DateUpdated": "2021-09-21T11:54:03.896Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"This data set is a real-time hourly upload from each cycling counter across Scotland that is part of the National Monitoring Framework.\""
+    },
+    {
+        "Title": "Participation in physical activity and sport in the last four weeks - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/9bb661cb-1dea-4856-b6c2-6aac6508da03",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e2e82854-062a-4bdd-a5d8-b0b09a9d3268",
+        "FileName": "Participation_in_physical_activity_last_four_weeks.csv",
+        "DateCreated": "2018-05-11T13:55:31.912Z",
+        "DateUpdated": "2019-12-20T12:54:34.465Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scottish Household Survey Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from the Scottish Household Survey (2007 - 2018) related to people's participation in physical activity and sport in the 4 weeks prior to the question being asked.\""
+    },
+    {
+        "Title": "Cycling Friendly - Employers Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/fa4d4cbb-b4a0-4efd-ae68-7767f6ab117d",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/2976a33d-5707-4144-8ac5-9df05abf5071/5/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-21T10:07:11.873Z",
+        "DateUpdated": "2019-11-26T12:10:29.057Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Business Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all employers across Scotland that have received a Cycling Friendly School Award\""
+    },
+    {
+        "Title": "Cycling Friendly - Employers Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/fa4d4cbb-b4a0-4efd-ae68-7767f6ab117d",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c045f5f5-7e79-440c-a8be-477d686c5fdc",
+        "FileName": "CyclingFriendly_Employers_Awards_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-21T10:07:11.873Z",
+        "DateUpdated": "2019-11-26T12:10:29.057Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Business Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all employers across Scotland that have received a Cycling Friendly School Award\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2018 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/afbf361c-6311-47de-8779-d79dbb4b9f0e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/821b3439-2f43-4d31-a53e-1695f37ed1b0/2/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-17T13:39:53.097Z",
+        "DateUpdated": "2019-12-16T16:26:29.926Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Government Scottish Household Survey Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2018. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification.  Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/transport-and-travel-in-scotland-results-from-the-scottish-household-survey-1/\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2018 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/afbf361c-6311-47de-8779-d79dbb4b9f0e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fedaf873-5787-4bec-b2b5-5f4c863c7d6e",
+        "FileName": "SHS_AverageJourneyDistance_RTP_2018_TransportScotland_USMaster.csv",
+        "DateCreated": "2019-10-17T13:39:53.097Z",
+        "DateUpdated": "2019-12-16T16:26:29.926Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Government Scottish Household Survey Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2018. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification.  Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/transport-and-travel-in-scotland-results-from-the-scottish-household-survey-1/\""
+    },
+    {
+        "Title": "Location of Bikehangars\u00ae in Scotland (Cyclehoop)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b997397-27d1-4014-9698-a291a0abb003",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d6e52799-7a05-45fe-85b1-bf46bf5cec81",
+        "FileName": "Location of Bikehangars\u00ae in Scotland (Cyclehoop).json",
+        "DateCreated": "2022-05-19T08:56:37.739Z",
+        "DateUpdated": "2022-05-30T08:03:02.631Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This dataset contains the locations of Bikehangars\u00ae in Edinburgh and Glasgow which are designed, installed and managed by Cyclehoop.\""
+    },
+    {
+        "Title": "Location of Bikehangars\u00ae in Scotland (Cyclehoop)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b997397-27d1-4014-9698-a291a0abb003",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6acaa210-5ddc-4b63-a846-175708a42254",
+        "FileName": "Location of Bikehangars\u00ae in Scotland (Cyclehoop).csv",
+        "DateCreated": "2022-05-19T08:56:37.739Z",
+        "DateUpdated": "2022-05-30T08:03:02.631Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This dataset contains the locations of Bikehangars\u00ae in Edinburgh and Glasgow which are designed, installed and managed by Cyclehoop.\""
+    },
+    {
+        "Title": "Location of Bikehangars\u00ae in Scotland (Cyclehoop)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b997397-27d1-4014-9698-a291a0abb003",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b3e5300b-896b-458c-a328-522d664b8d30",
+        "FileName": "Location of Bikehangars\u00ae in Scotland (Cyclehoop).xml",
+        "DateCreated": "2022-05-19T08:56:37.739Z",
+        "DateUpdated": "2022-05-30T08:03:02.631Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This dataset contains the locations of Bikehangars\u00ae in Edinburgh and Glasgow which are designed, installed and managed by Cyclehoop.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/84b8b2e7-8e18-4f36-822d-85fbf59c8d76",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=aade7d6a-8a66-4d65-b01f-999bc2727795",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland.json",
+        "DateCreated": "2018-10-05T11:13:06.948Z",
+        "DateUpdated": "2021-10-13T12:32:19.815Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Schools Transport Bikeability Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2016/17. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/84b8b2e7-8e18-4f36-822d-85fbf59c8d76",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=39f733f5-e2a7-456b-85a3-be5604e9dd04",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland.csv",
+        "DateCreated": "2018-10-05T11:13:06.948Z",
+        "DateUpdated": "2021-10-13T12:32:19.815Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Schools Transport Bikeability Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2016/17. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/84b8b2e7-8e18-4f36-822d-85fbf59c8d76",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8c903843-448a-46df-9321-2d6f934d0272",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2016/17 - Cycling Scotland.xml",
+        "DateCreated": "2018-10-05T11:13:06.948Z",
+        "DateUpdated": "2021-10-13T12:32:19.815Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Schools Transport Bikeability Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2016/17. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Key Reported Road Casualties 2018 - Casualties by mode of transport 1994-2018 - Transport Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9814e57-b548-4e90-a3a4-694829b36516",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c4dc777f-1945-4f9f-95ae-beda8f3eb92d",
+        "FileName": "ReportedRoadCasualties_1994-2018_TransportScotland_USMaster.xlsx",
+        "DateCreated": "2018-05-15T14:56:31.679Z",
+        "DateUpdated": "2019-11-26T15:15:26.895Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Transport Reported Road Casualties Scotland"
+        ],
+        "License": "",
+        "Description": "\"A range of data from Key Reported Road Casualties Scotland 2018.\""
+    },
+    {
+        "Title": "National Monitoring Framework - daily data from automatic cycling counters - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2d0d20d6-ff8e-47a8-8fc8-10580e00a052",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/02444e7a-5bd4-4ef3-9c66-e26671bb4c8a/1/urql",
+        "FileName": "API",
+        "DateCreated": "2020-02-19T15:31:56.977Z",
+        "DateUpdated": "2021-09-14T08:09:07.982Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Counter Traffic counts Cycling Scotland Featured"
+        ],
+        "License": "",
+        "Description": "\"This data set is a real-time daily upload from each cycling counter that is part of the National Monitoring Framework. The data includes pedestrian and bicycle user counts for more than 65 counters across Scotland in 20 different local authorities.\""
+    },
+    {
+        "Title": "North Ayrshire Council  - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ce2214d2-242e-4d0b-a25d-3a7e283c9959",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4b0fff26-d98d-4403-a57e-c8a863da9ba4/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:04:24.130Z",
+        "DateUpdated": "2021-11-16T16:07:16.447Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within North Ayrshire Council's network.\""
+    },
+    {
+        "Title": "Aberdeenshire Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/be55e07e-234e-4506-b478-b614097c355e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4373c5be-42a7-4dd3-8062-9f8b16a4d3f1/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-10-23T14:34:32.003Z",
+        "DateUpdated": "2022-03-29T11:27:38.995Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Active Travel Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Aberdeenshire Council's network.\""
+    },
+    {
+        "Title": "South Ayrshire Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/da45239d-666e-40fb-93ee-3ca411c49146",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3ab8e1e7-87cb-4674-98e6-2f8b0c6fa7ac/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-01-26T20:45:06.777Z",
+        "DateUpdated": "2022-02-23T23:16:56.471Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within South Ayrshire Council's network.\""
+    },
+    {
+        "Title": "Scotland South East Trunk Roads - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/4e329609-94e9-43b5-a221-be989390a391",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/85792890-4026-4282-a146-ff71f9470efc/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T11:03:19.018Z",
+        "DateUpdated": "2022-09-07T08:53:45.211Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Transport Transport and Travel in Scotland Cycling"
+        ],
+        "License": "",
+        "Description": "\"Scotland South East Trunk Roads - Hourly cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "Scotland South West Trunk Roads - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/eff3702a-1369-4647-8a40-926e0bd7076c",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fca80b83-4188-48da-bb54-fec0ba07be2b/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T10:51:46.101Z",
+        "DateUpdated": "2022-09-07T08:54:43.194Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Transport and Travel in Scotland Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Scotland South West Trunk Roads - Hourly cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "Annual Cycling Monitoring Report - Local Authority Cycling Statistics",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5722da4b-7559-4819-ab1c-4d2c9a6f92ec",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/45724cc2-0f99-4215-9c07-2c78dadd6075/5/urql",
+        "FileName": "API",
+        "DateCreated": "2021-05-13T13:35:32.999Z",
+        "DateUpdated": "2021-08-13T09:13:08.722Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"The Local section of the Annual Cycling Monitoring Report examines all the local authorities across Scotland and highlights statistics based on headline trends,\nworkplaces and schools from a range of sources.\""
+    },
+    {
+        "Title": "Cycling Friendly - Campus Cycling Officer - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/63a7fdf1-e5f1-4636-99b2-4d8ed0666776",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/8e0c9075-413d-42c7-b7f0-13b0b2535e99/3/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-21T11:39:17.535Z",
+        "DateUpdated": "2019-10-29T14:45:33.437Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Cycling Cycle Friendly  Campus Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows all campuses across Scotland with a Campus Cycling Officer (CCO) during the academic year 2019/2020\""
+    },
+    {
+        "Title": "Cycling Friendly - Campus Cycling Officer - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/63a7fdf1-e5f1-4636-99b2-4d8ed0666776",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1c0d1da7-cfb9-4825-911c-6118a1670db4",
+        "FileName": "CyclingFriendly_Campus_CyclingOfficer_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-21T11:39:17.535Z",
+        "DateUpdated": "2019-10-29T14:45:33.437Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Cycling Cycle Friendly  Campus Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows all campuses across Scotland with a Campus Cycling Officer (CCO) during the academic year 2019/2020\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/24ad961e-09b2-40ef-a253-abe960a53f3f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=96ac7e9a-41f7-4622-b3f9-1e6e80caccda",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland.json",
+        "DateCreated": "2020-07-22T14:25:56.771Z",
+        "DateUpdated": "2021-08-17T14:31:49.975Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Mode share Scottish Household Survey Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2017\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/24ad961e-09b2-40ef-a253-abe960a53f3f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c4216d59-641e-49b0-bc85-77e36170cb0b",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland.csv",
+        "DateCreated": "2020-07-22T14:25:56.771Z",
+        "DateUpdated": "2021-08-17T14:31:49.975Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Mode share Scottish Household Survey Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2017\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/24ad961e-09b2-40ef-a253-abe960a53f3f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=328209bc-8cde-4386-8fb0-6cb89aeab422",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2017 - Cycling Scotland.xml",
+        "DateCreated": "2020-07-22T14:25:56.771Z",
+        "DateUpdated": "2021-08-17T14:31:49.975Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Mode share Scottish Household Survey Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2017\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d292fc7e-9657-4f1b-bb65-042262d196fd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fad11ec0-7797-44e6-abe2-d0bcaef81024",
+        "FileName": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey.json",
+        "DateCreated": "2019-04-30T12:43:55.842Z",
+        "DateUpdated": "2019-12-20T14:24:59.936Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Transport Scottish Household Survey Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2017.\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d292fc7e-9657-4f1b-bb65-042262d196fd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3e3273b3-c653-44e3-b6ef-645d3decdf60",
+        "FileName": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey.csv",
+        "DateCreated": "2019-04-30T12:43:55.842Z",
+        "DateUpdated": "2019-12-20T14:24:59.936Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Transport Scottish Household Survey Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2017.\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d292fc7e-9657-4f1b-bb65-042262d196fd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=58185fbd-906d-486f-9e9d-e0ac31a5ea2d",
+        "FileName": "Number of bikes available for private use - Travel and Transport Scotland 2017 - Scottish Household Survey.xml",
+        "DateCreated": "2019-04-30T12:43:55.842Z",
+        "DateUpdated": "2019-12-20T14:24:59.936Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Transport Scottish Household Survey Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2017.\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2016 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0f20095c-c878-4f07-962d-8db0faaa0b5c",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=aa86d727-c4eb-4c00-b8ae-69fdd191ceb7",
+        "FileName": "SHS_BikesAvailablePrivateUse_TransportTravelScotland2016_TransportScotland.csv",
+        "DateCreated": "2018-05-15T10:17:06.963Z",
+        "DateUpdated": "2019-12-20T14:17:44.695Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Scottish Household Survey Transport Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2016.\""
+    },
+    {
+        "Title": "Cycling Friendly - Communities Funded - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f623d8cf-cdaf-426a-90f2-63387b8d680b",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9b8b85e0-8d97-4b9f-8ecb-36419272ecc5/1/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-21T11:53:05.320Z",
+        "DateUpdated": "2019-11-08T11:16:27.479Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Cycling Friendly"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows communities across Scotland that have received funding through Cycling Scotland's Cycling Friendly program\""
+    },
+    {
+        "Title": "Cycling Friendly - Communities Funded - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f623d8cf-cdaf-426a-90f2-63387b8d680b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9e4f2a31-315e-4b91-a501-26753fa87137",
+        "FileName": "CyclingFriendly_Communities_Funded_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-21T11:53:05.320Z",
+        "DateUpdated": "2019-11-08T11:16:27.479Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Cycling Friendly"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows communities across Scotland that have received funding through Cycling Scotland's Cycling Friendly program\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode Traffic Survey locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b4caea0b-4a89-41de-9bf4-5f349f1f7cea",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b7c2f32e-599b-4c60-b298-38ae1257ae7e/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-12-23T16:01:50.046Z",
+        "DateUpdated": "2022-01-05T08:30:14.102Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Active Travel Transport and Travel in Scotland National Monitoring Framework Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This dataset holds the locations for all of Cycling Scotland's all-mode traffic counts which are undertaken biannually across Scotland. The dates of each count are included.\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode Traffic Survey locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b4caea0b-4a89-41de-9bf4-5f349f1f7cea",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e9a35cef-fa69-4c96-aeba-59c79ea73a2a",
+        "FileName": "NMF_TrafficSurveyLocations_USMaster.csv",
+        "DateCreated": "2021-12-23T16:01:50.046Z",
+        "DateUpdated": "2022-01-05T08:30:14.102Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Active Travel Transport and Travel in Scotland National Monitoring Framework Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This dataset holds the locations for all of Cycling Scotland's all-mode traffic counts which are undertaken biannually across Scotland. The dates of each count are included.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2018/19 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/e2de0fb8-ef8b-4b22-8342-c22f08b81395",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b7008642-43ed-43b5-9e03-69e08f88172a/2/urql",
+        "FileName": "API",
+        "DateCreated": "2019-11-08T11:37:05.577Z",
+        "DateUpdated": "2021-10-13T12:33:19.745Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Bikeability Scotland Children Cycling Scotland Schools Featured"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2018/19. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2018/19 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/e2de0fb8-ef8b-4b22-8342-c22f08b81395",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=21710091-2919-4f96-8c1e-3eb8940e955b",
+        "FileName": "Bikeability_Level1and2_201819_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-11-08T11:37:05.577Z",
+        "DateUpdated": "2021-10-13T12:33:19.745Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Bikeability Scotland Children Cycling Scotland Schools Featured"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2018/19. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fa9cf4-16b3-4d13-97c0-29c2d0c21d6a",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=ddd63aef-2696-46d3-a7b5-89559ac8c803",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland.csv",
+        "DateCreated": "2021-10-13T11:55:10.006Z",
+        "DateUpdated": "2021-10-25T10:58:41.064Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport Bikeability Scotland Active Travel Schools"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2019/20. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fa9cf4-16b3-4d13-97c0-29c2d0c21d6a",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9c85eebd-326e-4713-b81b-76cc3734a81d",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland.json",
+        "DateCreated": "2021-10-13T11:55:10.006Z",
+        "DateUpdated": "2021-10-25T10:58:41.064Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport Bikeability Scotland Active Travel Schools"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2019/20. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fa9cf4-16b3-4d13-97c0-29c2d0c21d6a",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5a716f5c-b44b-42ff-aa29-9fccba0aab6f",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20 - Cycling Scotland.xml",
+        "DateCreated": "2021-10-13T11:55:10.006Z",
+        "DateUpdated": "2021-10-25T10:58:41.064Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport Bikeability Scotland Active Travel Schools"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2019/20. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2fe0e496-9f15-401e-9be4-9006c0494fe6",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=4e16a09d-cdf0-4f3f-b391-a1c5324b3338",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2017 - Cycling Scotland.json",
+        "DateCreated": "2020-07-22T14:01:15.068Z",
+        "DateUpdated": "2021-08-17T14:30:11.999Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Surveys"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2017\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2fe0e496-9f15-401e-9be4-9006c0494fe6",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=04c3987d-bf0a-474a-8ef7-f65ed54c4272",
+        "FileName": "NMF_TS_May_2017.csv",
+        "DateCreated": "2020-07-22T14:01:15.068Z",
+        "DateUpdated": "2021-08-17T14:30:11.999Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Surveys"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2017\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2017 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2fe0e496-9f15-401e-9be4-9006c0494fe6",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c570a1a8-e2bb-4b69-be1d-13c35c4327dd",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2017 - Cycling Scotland.xml",
+        "DateCreated": "2020-07-22T14:01:15.068Z",
+        "DateUpdated": "2021-08-17T14:30:11.999Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Surveys"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2017\""
+    },
+    {
+        "Title": "CSGNT John Muir Way Counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f15da707-ae6a-4899-9d94-68e709e6160a",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6c02dce2-4593-45d9-baa0-477b7fb5e7ce",
+        "FileName": "csgnt_jmw_counter.zip",
+        "DateCreated": "2020-02-05T09:44:01.233Z",
+        "DateUpdated": "2020-02-05T14:41:54.926Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "zip",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Geospatial Natural Environment"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling John Muir Way Walking Counter"
+        ],
+        "License": "",
+        "Description": "\"Counter Locations on the John Muir Way administered by the Central Scotland Green Network Trust\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/efd6da79-b22b-404b-86f4-dfd2987ba92e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c8363aa0-5cff-40ba-b60a-893455bc1e0b/3/urql",
+        "FileName": "API",
+        "DateCreated": "2020-06-23T14:45:34.278Z",
+        "DateUpdated": "2021-08-17T14:42:02.646Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2020\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/efd6da79-b22b-404b-86f4-dfd2987ba92e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a238bc4b-b71b-4c9b-b3e9-f3d96455309d",
+        "FileName": "NMF_TS_May2020_CSV.csv",
+        "DateCreated": "2020-06-23T14:45:34.278Z",
+        "DateUpdated": "2021-08-17T14:42:02.646Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2020\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/efd6da79-b22b-404b-86f4-dfd2987ba92e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b00b0df0-fbdf-47aa-833d-1eea8e7bef50",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2020 - Cycling Scotland.xml",
+        "DateCreated": "2020-06-23T14:45:34.278Z",
+        "DateUpdated": "2021-08-17T14:42:02.646Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2020\""
+    },
+    {
+        "Title": "Aberdeen City Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/34019298-02e8-41c0-95e3-b08133e33d2e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/8d4d35a1-5205-4fc0-a29a-6d6d0a779354/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:07:30.456Z",
+        "DateUpdated": "2021-11-16T15:55:54.734Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Aberdeen City Council's network.\""
+    },
+    {
+        "Title": "North Ayrshire Council- Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0bbe839b-6eb0-427f-9da0-105fc91cad59",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1b1f46df-8b37-48fb-90fa-9f464bb8f30a/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:03:52.003Z",
+        "DateUpdated": "2021-11-16T16:05:08.550Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within North Ayrshire Council's network.\""
+    },
+    {
+        "Title": "John Muir Way - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/e318582c-569a-4734-8304-5bf7df9f0db8",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/dfa2e487-eeda-460a-aaf3-03f4b73893b4/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-07-29T17:34:56.704Z",
+        "DateUpdated": "2021-08-13T09:07:51.089Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within John Muir Way's cycle network.\""
+    },
+    {
+        "Title": "John Muir Way - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/80b5351e-5280-426d-a8ae-5af79ad2afbb",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4709d578-f2b6-4584-b8e2-4512c5936f65/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-07-29T17:25:22.766Z",
+        "DateUpdated": "2021-08-13T09:08:20.139Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within John Muir Way's cycle network.\""
+    },
+    {
+        "Title": "Stirling - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/83ca4907-393d-45d3-b141-853266140346",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/455c088b-1f4a-4e95-9ba4-803f663c2500/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-17T15:42:36.457Z",
+        "DateUpdated": "2021-09-16T07:54:55.151Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Active Travel Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Stirling Council's network.\""
+    },
+    {
+        "Title": "Scotland North East Trunk Roads - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/56f8d127-9b79-4e91-bec6-238f62d4071a",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/242476ea-ca1c-4dc2-b8e8-30b7b9349a6b/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T11:33:52.834Z",
+        "DateUpdated": "2022-09-07T08:51:06.955Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Transport Transport and Travel in Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Scotland North East Trunk Roads - Hourly cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "Scotland South West Trunk Roads - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/deef0957-3a88-45df-b0b5-61c83d3816dc",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bd984932-6659-4775-8315-c550a1125852/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T10:11:48.767Z",
+        "DateUpdated": "2022-09-07T08:56:06.273Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Transport Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Scotland South West Trunk Roads - Daily cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "East Dunbartonshire Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/fa2e60c4-73a7-4cb6-91cc-c9ce4a634c59",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/439481f9-ed01-4880-8d9b-55bfe12ea932/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-04-26T15:40:44.580Z",
+        "DateUpdated": "2021-08-13T09:07:26.847Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within East Dunbartonshire Council's network.\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2017 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/33e828ef-a1a7-4666-b938-f929f19683d4",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eee093df-2be4-4d04-ae7d-d175dfde1269",
+        "FileName": "SHS_AverageJourneyDistance_RTP_2017_TransportScotland_USMaster.csv",
+        "DateCreated": "2019-10-17T13:27:07.273Z",
+        "DateUpdated": "2019-12-16T16:26:02.097Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Scottish Household Survey Government"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2017. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification. Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/transport-and-travel-in-scotland-2017/\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2017 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/33e828ef-a1a7-4666-b938-f929f19683d4",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f6db47aa-b724-422f-87d0-95bc50ecc2ec/2/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-17T13:27:07.273Z",
+        "DateUpdated": "2019-12-16T16:26:02.097Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Scottish Household Survey Government"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2017. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification. Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/transport-and-travel-in-scotland-2017/\""
+    },
+    {
+        "Title": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d87bdc18-b1e6-4e65-8b34-b9c83c67553b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=56e2cce4-27d1-4823-b85f-49cb4582e096",
+        "FileName": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.csv",
+        "DateCreated": "2018-05-15T09:39:01.252Z",
+        "DateUpdated": "2019-12-20T14:20:09.040Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Reported Road Casualties Scotland Transport Cycling Scotland Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Reported Road Casualties Scotland showing annual traffic volumes in Scotland from 2006 to 2017.\""
+    },
+    {
+        "Title": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d87bdc18-b1e6-4e65-8b34-b9c83c67553b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38a45d25-229c-4b9d-bb85-dc39cde90a21",
+        "FileName": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.json",
+        "DateCreated": "2018-05-15T09:39:01.252Z",
+        "DateUpdated": "2019-12-20T14:20:09.040Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Reported Road Casualties Scotland Transport Cycling Scotland Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Reported Road Casualties Scotland showing annual traffic volumes in Scotland from 2006 to 2017.\""
+    },
+    {
+        "Title": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d87bdc18-b1e6-4e65-8b34-b9c83c67553b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e80be9f4-251a-4ae0-b8e8-c776393e1df0",
+        "FileName": "Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.xml",
+        "DateCreated": "2018-05-15T09:39:01.252Z",
+        "DateUpdated": "2019-12-20T14:20:09.040Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Reported Road Casualties Scotland Transport Cycling Scotland Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Data from Reported Road Casualties Scotland showing annual traffic volumes in Scotland from 2006 to 2017.\""
+    },
+    {
+        "Title": "Traffic count by mode of transport - Department for Transport Traffic Counts",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/25db9595-479e-451b-b1ec-6f9a8c5e6dcb",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/207bc8d3-ef23-406b-91c8-adc12e5a9dae/1/urql",
+        "FileName": "API",
+        "DateCreated": "2019-11-01T15:43:40.911Z",
+        "DateUpdated": "2019-12-20T12:26:28.730Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows the number of vehicles at a particular traffic count location for a particular year.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/abd9a110-9d4d-4b06-82e1-b3b6d1b3090f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=892d071f-1787-493b-a8d7-f031979271f9",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21 - Cycling Scotland.json",
+        "DateCreated": "2021-10-13T12:02:45.152Z",
+        "DateUpdated": "2021-10-25T10:58:56.367Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Schools Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2020/21. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/abd9a110-9d4d-4b06-82e1-b3b6d1b3090f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6b17067a-86b5-4cbb-ab2f-819bd8e81c24",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and_or Level 2 - 2020_21.csv",
+        "DateCreated": "2021-10-13T12:02:45.152Z",
+        "DateUpdated": "2021-10-25T10:58:56.367Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Schools Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2020/21. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/abd9a110-9d4d-4b06-82e1-b3b6d1b3090f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7685f4d0-4919-4610-86b4-9ac457171e51",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21 - Cycling Scotland.xml",
+        "DateCreated": "2021-10-13T12:02:45.152Z",
+        "DateUpdated": "2021-10-25T10:58:56.367Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Schools Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2020/21. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/43ea90d9-39d4-44a6-bb44-b83a6955f6ab",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=febbc0b9-e30b-4743-9d62-77b029c696dd",
+        "FileName": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey.json",
+        "DateCreated": "2019-04-30T12:48:40.686Z",
+        "DateUpdated": "2019-12-20T14:24:16.268Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Scottish Household Survey Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Scottish Household Survey Travel Diary showing percentage of journeys by main mode of travel between 2007 and 2017.\""
+    },
+    {
+        "Title": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/43ea90d9-39d4-44a6-bb44-b83a6955f6ab",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1e4e42a2-e891-4595-bbe7-043491118569",
+        "FileName": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey.csv",
+        "DateCreated": "2019-04-30T12:48:40.686Z",
+        "DateUpdated": "2019-12-20T14:24:16.268Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Scottish Household Survey Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Scottish Household Survey Travel Diary showing percentage of journeys by main mode of travel between 2007 and 2017.\""
+    },
+    {
+        "Title": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/43ea90d9-39d4-44a6-bb44-b83a6955f6ab",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=48559fa7-126e-4d5a-9f5f-4ded9ca4d30f",
+        "FileName": "Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel - Scottish Household Survey.xml",
+        "DateCreated": "2019-04-30T12:48:40.686Z",
+        "DateUpdated": "2019-12-20T14:24:16.268Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Scottish Household Survey Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Scottish Household Survey Travel Diary showing percentage of journeys by main mode of travel between 2007 and 2017.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Stirling Trip Data (2018-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bc613ae3-3325-4f19-92b0-d03f68459200",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8ddc25ea-6850-42ee-a8ea-78e8e3293986",
+        "FileName": "Next Bike Cycle Hire - Stirling Trip Data (2018-2022).json",
+        "DateCreated": "2022-02-28T09:57:37.696Z",
+        "DateUpdated": "2022-08-10T10:37:49.438Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Anonymised data from Next Bike rental trips in Stirling from 2018 to 30th June 2022.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Stirling Trip Data (2018-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bc613ae3-3325-4f19-92b0-d03f68459200",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=62522635-c8d4-4088-b10d-58d4bbbbf87b",
+        "FileName": "Copy of Next Bike Cycle Hire - Stirling Trip Data (2018-2022)_Stirling (2018-2022) - v4.csv",
+        "DateCreated": "2022-02-28T09:57:37.696Z",
+        "DateUpdated": "2022-08-10T10:37:49.438Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Anonymised data from Next Bike rental trips in Stirling from 2018 to 30th June 2022.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Stirling Trip Data (2018-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bc613ae3-3325-4f19-92b0-d03f68459200",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31ec95f9-9c93-4625-8bca-3b2210c57892",
+        "FileName": "Next Bike Cycle Hire - Stirling Trip Data (2018-2022).xml",
+        "DateCreated": "2022-02-28T09:57:37.696Z",
+        "DateUpdated": "2022-08-10T10:37:49.438Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport and Travel in Scotland Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Anonymised data from Next Bike rental trips in Stirling from 2018 to 30th June 2022.\""
+    },
+    {
+        "Title": "YouGov survey - Coronavirus and cycling - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bdd7303d-650f-499e-92ff-c3fd4e70dc1d",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e94ed0c1-f963-4e21-afc4-75ac1badb18b",
+        "FileName": "Results for Cycling Scotland (Cornavirus and Cycling) 20 22.5.2020.xlsx",
+        "DateCreated": "2020-06-22T08:39:30.001Z",
+        "DateUpdated": "2020-06-22T15:57:39.652Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Coronavirus Data Cycling"
+        ],
+        "License": "",
+        "Description": "\"All figures, unless otherwise stated, are from YouGov Plc.  Total sample size was 2035 adults. Fieldwork was undertaken between 14th - 22nd May 2020.  The survey was carried out online. The figures have been weighted and are representative of all Scotland adults (aged 18+).\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5f455364-ed93-4669-825c-dda8ade2c51c",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5db11585-bfab-48fe-9b1a-ea3f3a25b4d2",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland.json",
+        "DateCreated": "2020-02-19T10:04:20.336Z",
+        "DateUpdated": "2021-08-17T14:39:43.995Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2019\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5f455364-ed93-4669-825c-dda8ade2c51c",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0a8f2a64-5d0a-4f30-bb70-29f922983db1",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland.csv",
+        "DateCreated": "2020-02-19T10:04:20.336Z",
+        "DateUpdated": "2021-08-17T14:39:43.995Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2019\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5f455364-ed93-4669-825c-dda8ade2c51c",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=098aa09b-f080-4de1-8042-0ffe66a1aa01",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2019 - Cycling Scotland.xml",
+        "DateCreated": "2020-02-19T10:04:20.336Z",
+        "DateUpdated": "2021-08-17T14:39:43.995Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2019\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/6ecbae85-3827-45ea-968a-d97939bf7f7e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=093651c1-b4c8-4cc1-8343-7e91937c3e00",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2018 - Cycling Scotland.json",
+        "DateCreated": "2020-07-20T08:51:08.163Z",
+        "DateUpdated": "2021-08-17T14:33:32.552Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2018\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/6ecbae85-3827-45ea-968a-d97939bf7f7e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=42d30410-5949-4fb4-b770-7b83f27ca117",
+        "FileName": "NMF_TS_May_2018.csv",
+        "DateCreated": "2020-07-20T08:51:08.163Z",
+        "DateUpdated": "2021-08-17T14:33:32.552Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2018\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/6ecbae85-3827-45ea-968a-d97939bf7f7e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=2fbdb32d-7b03-472a-ac75-d8984e476de8",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2018 - Cycling Scotland.xml",
+        "DateCreated": "2020-07-20T08:51:08.163Z",
+        "DateUpdated": "2021-08-17T14:33:32.552Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2018\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2018 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/e37ae792-6b5c-4a3f-9008-f550cac033fb",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=66c2ca92-773a-40d0-bb28-0423e73fc59a",
+        "FileName": "SHS_BikesAvailablePrivateUse_TransportTravelScotland2018.csv",
+        "DateCreated": "2019-11-26T15:08:45.181Z",
+        "DateUpdated": "2021-09-14T16:43:47.313Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Government Scottish Household Survey"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2018.\""
+    },
+    {
+        "Title": "Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle Repair Scheme 2020/21",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f61e40-cdff-4f2c-85e6-5245d1980b9b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0473e05d-8f43-4b5f-9694-c307b79178ab",
+        "FileName": "Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle Repair Scheme 2020/21.json",
+        "DateCreated": "2021-04-08T15:10:01.596Z",
+        "DateUpdated": "2021-04-23T07:24:04.000Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"-\tAll organisations listed provide bike repair services \n-\tAll organisations listed have appropriate public liability insurance in place\""
+    },
+    {
+        "Title": "Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle Repair Scheme 2020/21",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f61e40-cdff-4f2c-85e6-5245d1980b9b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0e015863-3700-4c04-954a-79c74dc7f6b9",
+        "FileName": "Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle Repair Scheme 2020/21.xml",
+        "DateCreated": "2021-04-08T15:10:01.596Z",
+        "DateUpdated": "2021-04-23T07:24:04.000Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"-\tAll organisations listed provide bike repair services \n-\tAll organisations listed have appropriate public liability insurance in place\""
+    },
+    {
+        "Title": "Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle Repair Scheme 2020/21",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f61e40-cdff-4f2c-85e6-5245d1980b9b",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b9a4e147-2393-4cf4-a1c6-1228053cbc76",
+        "FileName": "Cycling UK SCRS.csv",
+        "DateCreated": "2021-04-08T15:10:01.596Z",
+        "DateUpdated": "2021-04-23T07:24:04.000Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"-\tAll organisations listed provide bike repair services \n-\tAll organisations listed have appropriate public liability insurance in place\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a5c396fb-6da0-420d-9732-459d5d717264",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=cd8d4580-827e-473a-ac43-b1bff21e4802",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2019 - Cycling Scotland.json",
+        "DateCreated": "2020-06-23T13:45:58.596Z",
+        "DateUpdated": "2021-08-17T14:38:04.209Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2019\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a5c396fb-6da0-420d-9732-459d5d717264",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=db36ee3c-89ea-45bd-9c36-a5baea139830",
+        "FileName": "NMF_TS_May_2019.csv",
+        "DateCreated": "2020-06-23T13:45:58.596Z",
+        "DateUpdated": "2021-08-17T14:38:04.209Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2019\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2019 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a5c396fb-6da0-420d-9732-459d5d717264",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31cc3c72-9b5c-444f-a5fb-2d509a2571b8",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2019 - Cycling Scotland.xml",
+        "DateCreated": "2020-06-23T13:45:58.596Z",
+        "DateUpdated": "2021-08-17T14:38:04.209Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2019\""
+    },
+    {
+        "Title": "Just Eat Cycles - Edinburgh (2018 - 2021)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/8550147c-9ce2-4382-929d-3b4ab43e554f",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/80324843-fa22-4e40-92b4-4a97f0b0be2c/2/urql",
+        "FileName": "API",
+        "DateCreated": "2021-01-28T09:02:11.656Z",
+        "DateUpdated": "2021-10-13T12:51:23.678Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from Just Eat Cycles in Edinburgh from its inception in September 2018 to its discontinuation in September 2021\""
+    },
+    {
+        "Title": "Just Eat Cycles - Edinburgh (2018 - 2021)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/8550147c-9ce2-4382-929d-3b4ab43e554f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5872e566-d5ac-4059-a38b-e2ae4a228fae",
+        "FileName": "Just Eat Cycles - Edinburgh (2018 - 2021).xml",
+        "DateCreated": "2021-01-28T09:02:11.656Z",
+        "DateUpdated": "2021-10-13T12:51:23.678Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from Just Eat Cycles in Edinburgh from its inception in September 2018 to its discontinuation in September 2021\""
+    },
+    {
+        "Title": "Just Eat Cycles - Edinburgh (2018 - 2021)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/8550147c-9ce2-4382-929d-3b4ab43e554f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8a61a46-1ebd-45f0-9892-da341631260c",
+        "FileName": "Just_Eat_Cycles_2020-08.csv",
+        "DateCreated": "2021-01-28T09:02:11.656Z",
+        "DateUpdated": "2021-10-13T12:51:23.678Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from Just Eat Cycles in Edinburgh from its inception in September 2018 to its discontinuation in September 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results 2017 to 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fdd462-1f45-4252-aedc-fbc596abcd90",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/12da6df6-7b38-4907-8f00-76a6c260b197/16/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-11T09:14:20.746Z",
+        "DateUpdated": "2022-08-23T11:45:19.890Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts National Monitoring Framework Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland - all data from 2017 to 2022\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results 2017 to 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fdd462-1f45-4252-aedc-fbc596abcd90",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8fd87d6a-8a2c-49ee-906a-000b36699abd",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results 2017 to 2022 - Cycling Scotland.xml",
+        "DateCreated": "2021-08-11T09:14:20.746Z",
+        "DateUpdated": "2022-08-23T11:45:19.890Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts National Monitoring Framework Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland - all data from 2017 to 2022\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results 2017 to 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fdd462-1f45-4252-aedc-fbc596abcd90",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a626ab26-c960-451f-9834-3050da32ab2e",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results 2017 to 2022.csv",
+        "DateCreated": "2021-08-11T09:14:20.746Z",
+        "DateUpdated": "2022-08-23T11:45:19.890Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts National Monitoring Framework Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland - all data from 2017 to 2022\""
+    },
+    {
+        "Title": "The Highland Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/da632de6-499b-427d-a15d-94c75d381249",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c762c71a-7366-44ba-8828-90f473295f44/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:18:13.257Z",
+        "DateUpdated": "2021-11-16T15:41:17.108Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within The Highland Council's network.\""
+    },
+    {
+        "Title": "Glasgow City Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/af7fedef-7a7a-413f-a5c9-46b8eeeabeda",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/657f6f93-932b-4851-ae21-830b321c185d/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-03-25T16:21:15.609Z",
+        "DateUpdated": "2022-02-17T14:48:37.250Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Glasgow City Council's network.\""
+    },
+    {
+        "Title": "Glasgow City Centre Cordon Count",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec524177-6c0e-497d-85b9-3906eb525840",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/ebe31a3b-6295-4338-bcd6-a466ac521501/2018_Cycling%20Cordon%20Plan_ISSUE.pdf",
+        "FileName": "2018_Cycling Cordon Plan_ISSUE.pdf",
+        "DateCreated": "2019-05-13T14:44:51.982Z",
+        "DateUpdated": "2019-10-28T15:43:34.338Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "pdf",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Government Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Cycle data from 2018 City Centre Cordon survey\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2016 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ba9b5d11-01c5-4a50-9232-9c54634ebb62",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/6b18c08b-3562-4f6a-8154-6fab63fbafe6/2/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-17T11:16:41.438Z",
+        "DateUpdated": "2019-12-16T16:25:33.572Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Government Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2016. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification. Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/26-september-2017-transport-and-travel-in-scotland-2016/\""
+    },
+    {
+        "Title": "Average distance traveled (km) - Transport and Travel in Scotland 2016 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ba9b5d11-01c5-4a50-9232-9c54634ebb62",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9f6d8939-bd70-44d2-b569-6bfc32f35353",
+        "FileName": "SHS_AverageJourneyDistance_RTP_2016_TransportScotland_USMaster.csv",
+        "DateCreated": "2019-10-17T11:16:41.438Z",
+        "DateUpdated": "2019-12-16T16:25:33.572Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Government Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from the Transport and Travel related questions asked in the Scottish Household Survey 2016. Data is of average distance traveled (km) nationally. Data is classified by Local Authority, Regional Transport Partnership, and Urban/Rural Classification. Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/26-september-2017-transport-and-travel-in-scotland-2016/\""
+    },
+    {
+        "Title": "Cycling Friendly - Campus Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ccdfe336-fc50-44e4-8e07-77ec03547b0e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c92986a3-157a-485b-b967-f15f041ccecf/5/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-17T15:06:31.003Z",
+        "DateUpdated": "2019-11-26T12:10:04.241Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycle Friendly Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all university and college campuses across Scotland that have received a Cycling Friendly Campus Award\""
+    },
+    {
+        "Title": "Cycling Friendly - Campus Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ccdfe336-fc50-44e4-8e07-77ec03547b0e",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a101efee-bc93-47fc-b403-3d97149a0f38",
+        "FileName": "CyclingFriendly_Campus_Awards_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-17T15:06:31.003Z",
+        "DateUpdated": "2019-11-26T12:10:04.241Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycle Friendly Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all university and college campuses across Scotland that have received a Cycling Friendly Campus Award\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2313c4cf-ea8f-4974-98d1-50476db791cd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e0cb9563-d672-4dad-aaae-4aebbd06060d",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland.json",
+        "DateCreated": "2021-11-26T15:37:11.471Z",
+        "DateUpdated": "2021-11-29T12:02:11.211Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport National Monitoring Framework Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2313c4cf-ea8f-4974-98d1-50476db791cd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland.csv",
+        "DateCreated": "2021-11-26T15:37:11.471Z",
+        "DateUpdated": "2021-11-29T12:02:11.211Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport National Monitoring Framework Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2313c4cf-ea8f-4974-98d1-50476db791cd",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8dbd8bf-91e7-4ae7-9d0d-38f1e0ef63e1",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2021 - Cycling Scotland.xml",
+        "DateCreated": "2021-11-26T15:37:11.471Z",
+        "DateUpdated": "2021-11-29T12:02:11.211Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Transport National Monitoring Framework Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f1e8a739-ee14-4742-a7de-45d1ab6cb8aa",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c940b83f-9a3c-4bfe-9789-83a5c2cabc18",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland.csv",
+        "DateCreated": "2020-12-17T10:47:51.797Z",
+        "DateUpdated": "2021-08-17T14:43:40.494Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2020\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f1e8a739-ee14-4742-a7de-45d1ab6cb8aa",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d9d8e21d-cb72-4290-a397-d23cea3361fa",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland.json",
+        "DateCreated": "2020-12-17T10:47:51.797Z",
+        "DateUpdated": "2021-08-17T14:43:40.494Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2020\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f1e8a739-ee14-4742-a7de-45d1ab6cb8aa",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f2e3ad90-7257-41aa-b0ba-78eb00459295",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2020 - Cycling Scotland.xml",
+        "DateCreated": "2020-12-17T10:47:51.797Z",
+        "DateUpdated": "2021-08-17T14:43:40.494Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Scotland Data National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2020\""
+    },
+    {
+        "Title": "City Centre Cordon - Automatic Cycle Counts - Quarter 1 2019",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5e0304e7-bd04-4c70-be63-b1865fe9a8e8",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c3e8b496-290b-4f9e-b040-8acbaad84e00",
+        "FileName": "470 Albert Bridge Q1.xls",
+        "DateCreated": "2019-06-20T13:28:53.883Z",
+        "DateUpdated": "2021-01-13T17:04:08.847Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "vnd.ms-excel",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Glasgow City Council's raw data files for January to March 2019.\""
+    },
+    {
+        "Title": "City Centre Cordon - Automatic Cycle Counts - Quarter 1 2019",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5e0304e7-bd04-4c70-be63-b1865fe9a8e8",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/e6b0978b-db1a-44f3-9f44-88a75181b7bf/Automatic%20Cycle%20Counter%20Locations%20City%20Centre%20Cordon.pdf",
+        "FileName": "Automatic Cycle Counter Locations City Centre Cordon.pdf",
+        "DateCreated": "2019-06-20T13:28:53.883Z",
+        "DateUpdated": "2021-01-13T17:04:08.847Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "pdf",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Infrastructure Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Glasgow City Council's raw data files for January to March 2019.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/558cb4f5-d119-4b95-9347-ee130946d86f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=bf321937-a6eb-4ff7-908d-2a2fc459c8ce",
+        "FileName": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).csv",
+        "DateCreated": "2022-02-28T11:04:46.846Z",
+        "DateUpdated": "2022-09-07T11:36:12.762Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from nextbike cycle hire in Glasgow from 15th September 2017 to 30th June 2022.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/558cb4f5-d119-4b95-9347-ee130946d86f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=42785e38-d42a-48da-a318-1eb378e7fb0b",
+        "FileName": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).json",
+        "DateCreated": "2022-02-28T11:04:46.846Z",
+        "DateUpdated": "2022-09-07T11:36:12.762Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from nextbike cycle hire in Glasgow from 15th September 2017 to 30th June 2022.\""
+    },
+    {
+        "Title": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022)",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/558cb4f5-d119-4b95-9347-ee130946d86f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3f64ce49-f421-4692-9577-2f06428ca1c1",
+        "FileName": "Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).xml",
+        "DateCreated": "2022-02-28T11:04:46.846Z",
+        "DateUpdated": "2022-09-07T11:36:12.762Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel"
+        ],
+        "License": "",
+        "Description": "\"Anonymised trip data from nextbike cycle hire in Glasgow from 15th September 2017 to 30th June 2022.\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9dab7bac-c9ca-4c4f-9daa-d2617b328017/1/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-29T14:22:23.676Z",
+        "DateUpdated": "2020-04-20T13:08:45.778Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"This dataset holds the locations for all of Cycling Scotland's all-mode traffic counts across Scotland, including the dates the counts were undertaken\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393",
+        "FileName": "NMF_TemporaryCountLocations_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-29T14:22:23.676Z",
+        "DateUpdated": "2020-04-20T13:08:45.778Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"This dataset holds the locations for all of Cycling Scotland's all-mode traffic counts across Scotland, including the dates the counts were undertaken\""
+    },
+    {
+        "Title": "Go Mountain Bike - Centre Locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec90664f-00ed-4ef7-afe0-5a51aba90294",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=989cccbd-1e21-4aa3-8071-5556c0aa720e",
+        "FileName": "Go Mountain Bike - Centre Locations - Cycling Scotland.json",
+        "DateCreated": "2019-04-04T10:46:24.051Z",
+        "DateUpdated": "2019-11-08T11:31:07.374Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland Tourism Mountain Biking"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows the locations of Cycling Scotland's Go Mountrain Bike centres across the UK as of 2019\""
+    },
+    {
+        "Title": "Go Mountain Bike - Centre Locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec90664f-00ed-4ef7-afe0-5a51aba90294",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8fa7d5eb-ed2e-4020-9d6b-e56bb9e9e5fe",
+        "FileName": "Go Mountain Bike - Centre Locations - Cycling Scotland.csv",
+        "DateCreated": "2019-04-04T10:46:24.051Z",
+        "DateUpdated": "2019-11-08T11:31:07.374Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland Tourism Mountain Biking"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows the locations of Cycling Scotland's Go Mountrain Bike centres across the UK as of 2019\""
+    },
+    {
+        "Title": "Go Mountain Bike - Centre Locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec90664f-00ed-4ef7-afe0-5a51aba90294",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=efa338b1-2fe2-4f65-a08c-21400237de94",
+        "FileName": "Go Mountain Bike - Centre Locations - Cycling Scotland.xml",
+        "DateCreated": "2019-04-04T10:46:24.051Z",
+        "DateUpdated": "2019-11-08T11:31:07.374Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland Tourism Mountain Biking"
+        ],
+        "License": "",
+        "Description": "\"This dataset shows the locations of Cycling Scotland's Go Mountrain Bike centres across the UK as of 2019\""
+    },
+    {
+        "Title": "Glasgow City Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/01c6a04a-1b6f-4121-9b8a-d081c7e6ea28",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9697fc32-5f26-466a-b6b8-f9e15e6a0c3c/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-03-17T17:44:41.886Z",
+        "DateUpdated": "2022-02-17T14:48:17.679Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Glasgow City Council's network.\""
+    },
+    {
+        "Title": "Aberdeenshire Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2f91aa68-aebf-4d7b-bea6-9342995848cc",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/d7e5da9d-e676-4e5d-8959-b5a0a59ba18c/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-10-23T14:31:16.854Z",
+        "DateUpdated": "2021-11-16T16:14:03.416Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Aberdeenshire  Council's network.\""
+    },
+    {
+        "Title": "City of Edinburgh Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b1f0bd42-e220-465e-99a3-c4f62824f21f",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/7aa487cd-3cd5-405b-850e-1e2ac317816c/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-03-25T12:15:32.356Z",
+        "DateUpdated": "2021-08-13T09:03:26.004Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within City of Edinburgh Council's network.\""
+    },
+    {
+        "Title": "East Dunbartonshire Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/3b6d8d73-4e53-4d36-94fb-940fb830302e",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/030309fb-2269-47a1-a34c-c2e5cdcdd873/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-04-26T16:28:38.697Z",
+        "DateUpdated": "2021-08-13T09:06:49.057Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within East Dunbartonshire Council's network.\""
+    },
+    {
+        "Title": "South Lanarkshire - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/aa516804-3c9a-459b-a28c-75e80ef39e0f",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1751a710-7f65-4fde-ad6a-9fb1ba3d19bf/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-17T23:07:23.270Z",
+        "DateUpdated": "2021-11-16T16:17:05.444Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Active Travel Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within South Lanarkshire Council's network.\""
+    },
+    {
+        "Title": "Perth and Kinross - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/87c7e354-a619-443c-bc84-fc69967079eb",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f37ce11c-745a-4fae-8b3c-47eaa2905900/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-04T14:18:51.125Z",
+        "DateUpdated": "2022-09-06T15:44:07.316Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Stirling Council's network.\""
+    },
+    {
+        "Title": "East Ayrshire Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/4469c4a8-51f0-4e53-8ee9-681b68403d41",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/419c8ce9-9297-4b38-9cbd-341f0611b209/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-01-26T20:46:39.236Z",
+        "DateUpdated": "2022-02-23T23:16:25.497Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within East Ayrshire Council's network.\""
+    },
+    {
+        "Title": "Cycling Friendly - Communities Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/8b952141-0d52-48f5-b16d-c11bb93664e8",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c7dfc2d0-cd22-47ad-bc99-4011a93b3af0/6/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-17T15:19:22.247Z",
+        "DateUpdated": "2019-11-08T11:26:36.606Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycle Friendly Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data set highlights communities across Scotland that have received a Cycling Friendly Communities Award\""
+    },
+    {
+        "Title": "Cycling Friendly - Communities Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/8b952141-0d52-48f5-b16d-c11bb93664e8",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7453274b-382f-4aee-a852-ecb911395aea",
+        "FileName": "CyclingFriendly_Communities_Awards_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-17T15:19:22.247Z",
+        "DateUpdated": "2019-11-08T11:26:36.606Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycle Friendly Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data set highlights communities across Scotland that have received a Cycling Friendly Communities Award\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c2dac095-6b06-495f-8531-dec6c0b27dc2",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=52ac5039-7ff4-44f0-8e41-708c0e2eb1de",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland.json",
+        "DateCreated": "2018-12-18T13:28:31.800Z",
+        "DateUpdated": "2021-10-13T12:33:07.113Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2017/18. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c2dac095-6b06-495f-8531-dec6c0b27dc2",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=71dd3758-e670-43a4-9623-7d4ced6277de",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland.xml",
+        "DateCreated": "2018-12-18T13:28:31.800Z",
+        "DateUpdated": "2021-10-13T12:33:07.113Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2017/18. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c2dac095-6b06-495f-8531-dec6c0b27dc2",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b64cd424-bba7-40fc-b3ff-0170e6be5b47",
+        "FileName": "Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18 - Cycling Scotland.csv",
+        "DateCreated": "2018-12-18T13:28:31.800Z",
+        "DateUpdated": "2021-10-13T12:33:07.113Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"Schools in Scotland which delivered Bikeability Scotland training in 2017/18. Bikeability Scotland is a cycle training programme designed to give children the skills and confidence they need both to cycle safely on the roads, and to encourage them to carry on cycling into adulthood.\""
+    },
+    {
+        "Title": "Frequency of cycling in the previous seven days 2016 - Transport and Travel Scotland 2018 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/1891331f-7ec1-4d7a-9ad5-4c43bb817ad8",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7a097bf0-1a75-4cf2-b4d7-90d6b73aa15e",
+        "FileName": "SHS_FrequencyCycling_TransportTravelScotland2018.csv",
+        "DateCreated": "2018-05-11T14:16:53.569Z",
+        "DateUpdated": "2019-12-16T16:24:14.045Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Cycling Scotland Active Travel Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland relating to cycling frequency in the previous seven days. Split by gender, age, employment status, net household income, SIMD and more.\""
+    },
+    {
+        "Title": "National Monitoring Framework - Automatic cycling counter locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/14227968-8ed5-4caf-a5cb-2dbc3539100f",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/4/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-27T10:45:43.733Z",
+        "DateUpdated": "2021-09-03T13:34:20.440Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "National Monitoring Framework Featured Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This data set holds the locations for all of Cycling Scotland's permanent cycle counter locations across Scotland, including the installation date of each counter\""
+    },
+    {
+        "Title": "National Monitoring Framework - Automatic cycling counter locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/14227968-8ed5-4caf-a5cb-2dbc3539100f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=dd1d4f08-6aba-4e14-abfd-3d6e6d79b811",
+        "FileName": "National Monitoring Framework - Automatic cycling counter locations - Cycling Scotland.csv",
+        "DateCreated": "2021-08-27T10:45:43.733Z",
+        "DateUpdated": "2021-09-03T13:34:20.440Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "National Monitoring Framework Featured Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This data set holds the locations for all of Cycling Scotland's permanent cycle counter locations across Scotland, including the installation date of each counter\""
+    },
+    {
+        "Title": "National Monitoring Framework - Automatic cycling counter locations - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/14227968-8ed5-4caf-a5cb-2dbc3539100f",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38d63877-40f3-462d-92b7-91685f20c22d",
+        "FileName": "National Monitoring Framework - Automatic cycling counter locations - Cycling Scotland.xml",
+        "DateCreated": "2021-08-27T10:45:43.733Z",
+        "DateUpdated": "2021-09-03T13:34:20.440Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "National Monitoring Framework Featured Cycling Scotland Active Travel"
+        ],
+        "License": "",
+        "Description": "\"This data set holds the locations for all of Cycling Scotland's permanent cycle counter locations across Scotland, including the installation date of each counter\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f74c16-ff56-4d36-a26d-8d07e9a5a449",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/20f490ba-edef-4843-822a-cd3e2670916f/2/urql",
+        "FileName": "API",
+        "DateCreated": "2020-07-20T08:53:30.537Z",
+        "DateUpdated": "2021-08-17T14:35:12.109Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2018\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f74c16-ff56-4d36-a26d-8d07e9a5a449",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f255f058-4237-42a4-8ddf-e88d2627ae66",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results September 2018 - Cycling Scotland.xml",
+        "DateCreated": "2020-07-20T08:53:30.537Z",
+        "DateUpdated": "2021-08-17T14:35:12.109Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2018\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results September 2018 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f74c16-ff56-4d36-a26d-8d07e9a5a449",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7b202b52-1850-4396-b668-dca476a69da5",
+        "FileName": "NMF_TS_Sep_2018.csv",
+        "DateCreated": "2020-07-20T08:53:30.537Z",
+        "DateUpdated": "2021-08-17T14:35:12.109Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in September 2018\""
+    },
+    {
+        "Title": "Cycling Friendly - Secondary School Development Fund - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/31b68937-3327-4468-bca1-546d5d25de11",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3ad3768f-134c-4e77-a50f-cd22b39e2ee6/2/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-21T10:38:12.077Z",
+        "DateUpdated": "2019-10-30T09:41:44.458Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all secondary schools across Scotland that have received a Cycling Scotland Development Fund\""
+    },
+    {
+        "Title": "Cycling Friendly - Secondary School Development Fund - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/31b68937-3327-4468-bca1-546d5d25de11",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1662f845-427f-4b6e-b59f-d6eb353c742b",
+        "FileName": "CyclingFriendly_Schools_DevelopmentFund_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-21T10:38:12.077Z",
+        "DateUpdated": "2019-10-30T09:41:44.458Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Scotland Schools Young People"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all secondary schools across Scotland that have received a Cycling Scotland Development Fund\""
+    },
+    {
+        "Title": "Cycling Friendly - School Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a9c9055c-4393-4b9a-a1f9-e262674f64db",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/13028f91-1f7b-4997-a377-55940b35db51/3/urql",
+        "FileName": "API",
+        "DateCreated": "2019-10-18T10:57:07.618Z",
+        "DateUpdated": "2019-10-30T09:41:14.103Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Children Cycle Friendly Cycling Cycling Scotland Schools"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all primary and secondary schools across Scotland that have received a Cycling Friendly School Award\""
+    },
+    {
+        "Title": "Cycling Friendly - School Award - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a9c9055c-4393-4b9a-a1f9-e262674f64db",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9d7823fd-27b9-4088-9dc5-377d52139fee",
+        "FileName": "CyclingFriendly_Schools_Awards_2019_CyclingScotland_USMaster.csv",
+        "DateCreated": "2019-10-18T10:57:07.618Z",
+        "DateUpdated": "2019-10-30T09:41:14.103Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Children Cycle Friendly Cycling Cycling Scotland Schools"
+        ],
+        "License": "",
+        "Description": "\"This data highlights all primary and secondary schools across Scotland that have received a Cycling Friendly School Award\""
+    },
+    {
+        "Title": "The Big Count - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ee8e8ff1-00df-4e3e-b857-92ebfa369fa0",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4ecae34e-9382-404e-8728-a97df2f36b73/1/urql",
+        "FileName": "API",
+        "DateCreated": "2019-11-01T15:40:06.940Z",
+        "DateUpdated": "2021-01-13T17:10:11.697Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            " "
+        ],
+        "License": "",
+        "Description": "\"This dataset is for the Big Count which happens across Scotland twice a year in May and September. Cycling Scotland ask people to visit the bike parking at their workplace and count how many bikes there are there on that day.\""
+    },
+    {
+        "Title": "The Big Count - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ee8e8ff1-00df-4e3e-b857-92ebfa369fa0",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/0927d3a0-29af-433a-b7f8-059e02abd507/Cycling%20Friendly%20Employer%20handbook%20-%20Cycling%20Scotland.pdf",
+        "FileName": "Cycling Friendly Employer handbook - Cycling Scotland.pdf",
+        "DateCreated": "2019-11-01T15:40:06.940Z",
+        "DateUpdated": "2021-01-13T17:10:11.697Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "pdf",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            " "
+        ],
+        "License": "",
+        "Description": "\"This dataset is for the Big Count which happens across Scotland twice a year in May and September. Cycling Scotland ask people to visit the bike parking at their workplace and count how many bikes there are there on that day.\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b4e027e-59e2-4147-994f-c2f01cd08747",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eafbe615-dba0-4a67-a711-5b966bf72fde",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland.json",
+        "DateCreated": "2021-08-10T14:30:44.494Z",
+        "DateUpdated": "2021-08-17T14:45:56.018Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b4e027e-59e2-4147-994f-c2f01cd08747",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=764a63a7-fb84-424b-a957-eb0f6008630c",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland.csv",
+        "DateCreated": "2021-08-10T14:30:44.494Z",
+        "DateUpdated": "2021-08-17T14:45:56.018Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2021\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b4e027e-59e2-4147-994f-c2f01cd08747",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d8a1badd-3280-40bf-b1fa-c6c505c902b5",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2021 - Cycling Scotland.xml",
+        "DateCreated": "2021-08-10T14:30:44.494Z",
+        "DateUpdated": "2021-08-17T14:45:56.018Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2021\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2019 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0d94f83a-4b54-407c-89ae-6010ebd3ac8d",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/ae0b651b-ce85-42b8-a9b6-7423465de8f4/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-14T16:43:33.184Z",
+        "DateUpdated": "2021-09-14T16:56:35.745Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Government Featured Scottish Household Survey"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2019.\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2019 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0d94f83a-4b54-407c-89ae-6010ebd3ac8d",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=14508826-0c68-4dce-beb9-01620d1b4c7c",
+        "FileName": "Number of bikes available for private use - Travel and Transport Scotland 2019 - Scottish Household Survey.xml",
+        "DateCreated": "2021-09-14T16:43:33.184Z",
+        "DateUpdated": "2021-09-14T16:56:35.745Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Government Featured Scottish Household Survey"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2019.\""
+    },
+    {
+        "Title": "Number of bikes available for private use - Travel and Transport Scotland 2019 - Scottish Household Survey",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0d94f83a-4b54-407c-89ae-6010ebd3ac8d",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=614df944-323e-4899-b099-9da795a66f77",
+        "FileName": "SHS_BikeAvailability_2019.csv",
+        "DateCreated": "2021-09-14T16:43:33.184Z",
+        "DateUpdated": "2021-09-14T16:56:35.745Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Government Featured Scottish Household Survey"
+        ],
+        "License": "",
+        "Description": "\"Data from Transport and Travel in Scotland and the Scottish Household Survey relating to the number of bikes available for private use by Local Authority in 2019.\""
+    },
+    {
+        "Title": "Attitudes and behaviours towards cycling in Scotland - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f9e2f1dc-5f97-4508-a370-ea6f744f6f62",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5bb69fcd-128a-46c7-8320-20f6232549f7",
+        "FileName": "AttitudesBehaviours_results_2021_CyclingScotland_USMaster.pdf.pdf",
+        "DateCreated": "2020-01-23T14:17:31.971Z",
+        "DateUpdated": "2021-12-21T15:36:12.603Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "pdf",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Culture Cycling Scotland Attitudes and behaviours"
+        ],
+        "License": "",
+        "Description": "\"Cycling Scotland undertakes research biennially into the attitudes and behaviours of people towards cycling. This dataset has the results in pdf format from the first (2017), second (2019) and third (2021) rounds.\""
+    },
+    {
+        "Title": "The Highland Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c34d4636-7390-4a12-9e4f-01e7a88bd69a",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/7ac87fa3-45e1-40eb-9274-13359c00f195/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:17:54.110Z",
+        "DateUpdated": "2021-11-16T15:44:20.813Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within The Highland Council's network.\""
+    },
+    {
+        "Title": "Aberdeen City Council - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c3248da7-823b-40e7-ae5c-9b33a4ab7f16",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/d0717679-21fb-4274-a9d3-f973cfb5b7ff/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-25T13:08:11.623Z",
+        "DateUpdated": "2021-11-16T15:53:14.735Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Traffic counts Cycling Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Aberdeen City Council's network.\""
+    },
+    {
+        "Title": "South Lanarkshire Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/1ba7b643-860e-41c9-8798-106fff4720cf",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/33d30786-3d9e-4513-b2d1-9a67a96c831d/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-17T23:06:52.871Z",
+        "DateUpdated": "2021-11-16T16:19:02.997Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within South Lanarkshire Council's network.\""
+    },
+    {
+        "Title": "City of Edinburgh Council - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/9aef744b-846b-47c7-a3a6-4aef9f1fe371",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b8af3f88-75c5-4470-bcf3-0be9c051b9ef/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-02-23T15:43:12.673Z",
+        "DateUpdated": "2021-08-13T09:02:35.181Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within City of Edinburgh Council's network.\""
+    },
+    {
+        "Title": "National Monitoring Framework - daily data from automatic cycling counters - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/dd0703b8-4055-400d-9faf-868c34d7574a",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/5421f510-69b1-4deb-a319-135289598388/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-03-24T20:37:54.077Z",
+        "DateUpdated": "2021-08-13T10:42:59.290Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework Cycling Cycling Scotland"
+        ],
+        "License": "",
+        "Description": "\"This data set is a real-time daily upload from each cycling counter across Scotland that is part of the National Monitoring Framework.\""
+    },
+    {
+        "Title": "Stirling - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2baff59f-b06f-4424-b6d9-9dc0d8c1d376",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/127ececb-bc70-46de-a637-e159b89c6d19/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-08-17T15:47:37.719Z",
+        "DateUpdated": "2021-09-16T07:54:24.018Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Traffic counts Cycling"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Stirling Council's network.\""
+    },
+    {
+        "Title": "Perth and Kinross - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/16e1662e-c3b4-4b7e-b8b1-04775b7c0737",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/840ab46e-93bf-43d9-9a82-0c977302c6c2/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-09-04T14:16:43.528Z",
+        "DateUpdated": "2022-09-06T15:46:45.752Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Traffic counts Active Travel"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Perth & Kinross Council's network.\""
+    },
+    {
+        "Title": "Scotland North East Trunk Roads - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/05b83b02-7d57-4b2f-a8ad-209ba1a15ad9",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/91a9d05a-17bc-4c2a-83c8-38f673e86099/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T11:35:27.261Z",
+        "DateUpdated": "2022-09-07T08:47:37.056Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Transport Transport and Travel in Scotland"
+        ],
+        "License": "",
+        "Description": "\"Scotland North East Trunk Roads - Daily cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "Scotland South East Trunk Roads - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/38245b62-caae-4717-b86a-c1616d7273c7",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/14c49f20-0a69-4196-b39a-832a8e28ad7b/1/urql",
+        "FileName": "API",
+        "DateCreated": "2022-06-21T11:02:07.434Z",
+        "DateUpdated": "2022-09-07T08:54:22.870Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Cycling Transport and Travel in Scotland Active Travel Transport"
+        ],
+        "License": "",
+        "Description": "\"Scotland South East Trunk Roads - Daily cycling counts from automatic cycling counters\""
+    },
+    {
+        "Title": "Comhairle nan Eilean Siar (Western Isles Council) - Daily cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/95dcdb65-ced2-4291-abb2-27209c132115",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/76b1d034-058f-4c23-9b33-e3bc11fcf8f2/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-07-03T15:12:25.015Z",
+        "DateUpdated": "2021-08-13T09:05:39.634Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time daily upload from each cycling counter within Comhairle nan Eilean Siar's network.\""
+    },
+    {
+        "Title": "Comhairle nan Eilean Siar (Western Isles Council) - Hourly cycling counts from automatic cycling counters",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2f431f6f-5fea-42a5-9504-7f1c0c7ce67d",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/5376053f-a413-47b6-9310-9d43bba464e9/1/urql",
+        "FileName": "API",
+        "DateCreated": "2021-07-03T15:11:51.836Z",
+        "DateUpdated": "2021-08-13T09:05:11.265Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel Cycling Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"A real-time hourly upload from each cycling counter within Comhairle nan Eilean Siar's network.\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/64c2e05b-4905-4a08-8943-fd732b904535",
+        "AssetURL": "https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/160111b5-6333-48e2-b284-9f6d6fb85f3e/4/urql",
+        "FileName": "API",
+        "DateCreated": "2022-08-22T14:44:35.365Z",
+        "DateUpdated": "2022-08-22T14:56:07.757Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "json",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework Transport Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2022\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/64c2e05b-4905-4a08-8943-fd732b904535",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=95a71d70-9674-4e02-9a0d-d31faa0e69fc",
+        "FileName": "NMF_TS_May_2022.csv",
+        "DateCreated": "2022-08-22T14:44:35.365Z",
+        "DateUpdated": "2022-08-22T14:56:07.757Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "csv",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework Transport Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2022\""
+    },
+    {
+        "Title": "National Monitoring Framework - all-mode traffic survey results May 2022 - Cycling Scotland",
+        "Owner": "test_owner",
+        "PageURL": "https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/64c2e05b-4905-4a08-8943-fd732b904535",
+        "AssetURL": "https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3db56b24-458f-43a4-8aef-8c8a3c12a5c2",
+        "FileName": "National Monitoring Framework - all-mode traffic survey results May 2022 - Cycling Scotland.xml",
+        "DateCreated": "2022-08-22T14:44:35.365Z",
+        "DateUpdated": "2022-08-22T14:56:07.757Z",
+        "FileSize": "",
+        "FileSizeUnit": "",
+        "FileType": "xml",
+        "NumRecords": "",
+        "OriginalTags": [
+            "Transport / Mobility"
+        ],
+        "ManualTags": [
+            "Active Travel National Monitoring Framework Transport Traffic counts"
+        ],
+        "License": "",
+        "Description": "\"All-mode traffic data from 48-hour surveys across Scotland in May 2022\""
+    }
+]
