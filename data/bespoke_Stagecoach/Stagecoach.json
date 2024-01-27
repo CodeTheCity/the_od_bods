@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Stagecoach Bluebird - Schedules and Fares",
+        "owner": "Stagecoach",
+        "page_url": "https://www.stagecoachbus.com/open-data",
+        "date_created": null,
+        "date_updated": null,
+        "licence": "UNKNOWN",
+        "description": "Schedules and Fares data for the Stagecoach Bluebird region",
+        "tags": [],
+        "resources": [
+            {
+                "file_name": "Schedules (TXC 2.1)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-sblb-route-schedule-data-transxchange.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "12624855",
+                "num_records": null
+            },
+            {
+                "file_name": "Schedules (TXC 2.4)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-sblb-route-schedule-data-transxchange_2_4.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "12235546",
+                "num_records": null
+            },
+            {
+                "file_name": "Fares",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-sblb-fares-data-netex.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "1659477",
+                "num_records": null
+            }
+        ]
+    },
+    {
+        "title": "Stagecoach East Scotland - Schedules and Fares",
+        "owner": "Stagecoach",
+        "page_url": "https://www.stagecoachbus.com/open-data",
+        "date_created": null,
+        "date_updated": null,
+        "licence": "UNKNOWN",
+        "description": "Schedules and Fares data for the Stagecoach East Scotland region",
+        "tags": [],
+        "resources": [
+            {
+                "file_name": "Schedules (TXC 2.1)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-scfi-route-schedule-data-transxchange.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "22545284",
+                "num_records": null
+            },
+            {
+                "file_name": "Schedules (TXC 2.4)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-scfi-route-schedule-data-transxchange_2_4.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "34937247",
+                "num_records": null
+            },
+            {
+                "file_name": "Fares",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-scfi-fares-data-netex.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "7533115",
+                "num_records": null
+            }
+        ]
+    },
+    {
+        "title": "Stagecoach Highlands - Schedules and Fares",
+        "owner": "Stagecoach",
+        "page_url": "https://www.stagecoachbus.com/open-data",
+        "date_created": null,
+        "date_updated": null,
+        "licence": "UNKNOWN",
+        "description": "Schedules and Fares data for the Stagecoach Highlands region",
+        "tags": [],
+        "resources": [
+            {
+                "file_name": "Schedules (TXC 2.1)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-schi-route-schedule-data-transxchange.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "12526249",
+                "num_records": null
+            },
+            {
+                "file_name": "Schedules (TXC 2.4)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-schi-route-schedule-data-transxchange_2_4.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "13092518",
+                "num_records": null
+            },
+            {
+                "file_name": "Fares",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-schi-fares-data-netex.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "831985",
+                "num_records": null
+            }
+        ]
+    },
+    {
+        "title": "Stagecoach West Scotland - Schedules and Fares",
+        "owner": "Stagecoach",
+        "page_url": "https://www.stagecoachbus.com/open-data",
+        "date_created": null,
+        "date_updated": null,
+        "licence": "UNKNOWN",
+        "description": "Schedules and Fares data for the Stagecoach West Scotland region",
+        "tags": [],
+        "resources": [
+            {
+                "file_name": "Schedules (TXC 2.1)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-stws-route-schedule-data-transxchange.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "12169430",
+                "num_records": null
+            },
+            {
+                "file_name": "Schedules (TXC 2.4)",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-stws-route-schedule-data-transxchange_2_4.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "16699564",
+                "num_records": null
+            },
+            {
+                "file_name": "Fares",
+                "file_type": "ZIP",
+                "asset_url": "https://opendata.stagecoachbus.com/stagecoach-stws-fares-data-netex.zip",
+                "date_created": null,
+                "date_updated": null,
+                "file_size_unit": "B",
+                "file_size": "2587759",
+                "num_records": null
+            }
+        ]
+    }
+]

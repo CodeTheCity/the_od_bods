@@ -5,8 +5,12 @@ import csv
 import json
 import os
 
-
+# TODO: Move this to the classes folder at some point
 class Processor:
+    USER_AGENT = (
+        "Open Data Scotland Scraper - https://github.com/OpenDataScotland/the_od_bods"
+    )
+
     # Type should be one of the following: 'dcat', 'arcgis', 'usmart'
     def __init__(self, type):
         self.type = type
@@ -66,6 +70,58 @@ class Processor:
 
         return "NULL"
 
+    def get_html(self, url):
+        """Performs an HTTP request to get the HTML content of the portal page"""
+        headers = {"User-Agent": self.USER_AGENT}
+        req = request.Request(url, headers=headers)
+        try:
+            return request.urlopen(req).read().decode()
+        except HTTPError as err1:
+            print(url, "cannot be accessed. The URL returned:", err1.code, err1.reason)
+            error_dict = {
+                "url": url,
+                "error_code": err1.code,
+                "error_reason": err1.reason,
+            }
+        except URLError as err2:
+            print(type(err2))
+            print(url, "cannot be accessed. The URL returned:", err2.reason)
+            error_dict = {
+                "url": url,
+                "error_code": "",
+                "error_reason": str(err2.reason),
+            }
+
+    def get_html_head(self, url):
+        """Performs an HTTP HEAD request"""
+        headers = {"User-Agent": self.USER_AGENT}
+        req = request.Request(url, headers=headers)
+        try:
+            return request.urlopen(req).info()
+        except HTTPError as err1:
+            print(url, "cannot be accessed. The URL returned:", err1.code, err1.reason)
+            error_dict = {
+                "url": url,
+                "error_code": err1.code,
+                "error_reason": err1.reason,
+            }
+        except URLError as err2:
+            print(type(err2))
+            print(url, "cannot be accessed. The URL returned:", err2.reason)
+            error_dict = {
+                "url": url,
+                "error_code": "",
+                "error_reason": str(err2.reason),
+            }
+
+    def get_http_content_length(self, url):
+        """Tries to get file content length without downloading by using a HEAD request"""
+        try:
+            response_headers = self.get_html_head(url)
+            return response_headers["Content-Length"]
+        except:            
+            return None
+
     def get_license(self, dataset):
         try:
             # Known Licenses info
@@ -107,16 +163,18 @@ class Processor:
                     r[-1] = r[-1].replace("\n", " ")
                 w.writerow(r)
 
-    def write_json(self, fname, prepped):        
+    def write_json(self, fname, prepped):
         with open(fname, "w", encoding="utf8") as json_file:
-            json.dump(prepped, json_file, indent=4)
+            json.dump(prepped, json_file, indent=4, default=vars)
 
     def get_datasets(self, owner, url, fname):
         print("Override this method")
 
-    def process(self, file_type = "csv"):
+    def process(self, file_type="csv"):
         self.get_urls()
 
         for name, url in self.urls.items():
             print(name)
-            self.get_datasets(name, url, os.path.join("data", self.type, f"{name}.{file_type}"))
+            self.get_datasets(
+                name, url, os.path.join("data", self.type, f"{name}.{file_type}")
+            )

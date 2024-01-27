@@ -1,4 +1,6 @@
 from processor import Processor
+from classes.dataset import Dataset
+from classes.resource import Resource
 
 DATASETS_LINK = "https://data.parliament.scot/#/datasets"
 DATASETS_LICENCE = "Scottish Parliament Copyright Policy"
@@ -16,44 +18,19 @@ class ProcessorScottishParliament(Processor):
         dataset_resources = []
         if xml_link is not None:
             dataset_resources.append(
-                {
-                    "fileName": "XML",
-                    "fileSize": None,
-                    "fileSizeUnit": None,
-                    "fileType": "XML",
-                    "assetUrl": xml_link,
-                    "dateCreated": None,
-                    "dateUpdated": date_updated,
-                    "numRecords": None,
-                }
+                Resource("XML", "XML", xml_link, None, date_updated, None, None, None)
             )
 
         if json_link is not None:
             dataset_resources.append(
-                {
-                    "fileName": "JSON",
-                    "fileSize": None,
-                    "fileSizeUnit": None,
-                    "fileType": "JSON",
-                    "assetUrl": json_link,
-                    "dateCreated": None,
-                    "dateUpdated": date_updated,
-                    "numRecords": None,
-                }
+                Resource(
+                    "JSON", "JSON", json_link, None, date_updated, None, None, None
+                )
             )
 
         if csv_link is not None:
             dataset_resources.append(
-                {
-                    "fileName": "CSV",
-                    "fileSize": None,
-                    "fileSizeUnit": None,
-                    "fileType": "CSV",
-                    "assetUrl": csv_link,
-                    "dateCreated": None,
-                    "dateUpdated": date_updated,
-                    "numRecords": None,
-                }
+                Resource("CSV", "CSV", csv_link, None, date_updated, None, None, None)
             )
 
         return dataset_resources
@@ -87,17 +64,17 @@ class ProcessorScottishParliament(Processor):
             )
 
             prepped_datasets.append(
-                {
-                    "title": dataset_title,
-                    "owner": dataset_owner,
-                    "pageURL": dataset_page_url,
-                    "dateCreated": dataset_date_created,
-                    "dateUpdated": dataset_date_updated,
-                    "licence": dataset_licence,
-                    "description": dataset_description,
-                    "tags": dataset_tags,
-                    "resources": dataset_resources,
-                }
+                Dataset(
+                    dataset_title,
+                    dataset_owner,
+                    dataset_page_url,
+                    dataset_date_created,
+                    dataset_date_updated,
+                    dataset_licence,
+                    dataset_description,
+                    dataset_tags,
+                    dataset_resources,
+                )
             )
 
         print(fname)
